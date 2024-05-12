@@ -1,0 +1,40 @@
+{
+  "name": "example-basic",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start",
+    "version": "vinxi version"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "@types/three": "^0.164.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "autoprefixer": "^10.4.19",
+    "bezier-easing": "^2.1.0",
+    "bootstrap": "^5.3.3",
+    "classnames": "^2.5.1",
+    "eslint": "^9.2.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-solid": "^0.14.0",
+    "prettier-plugin-css-order": "^2.1.2",
+    "sass": "^1.77.0",
+    "stylelint": "^16.5.0",
+    "stylelint-config-recommended-scss": "^14.0.0",
+    "stylelint-prettier": "^5.0.0",
+    "stylelint-scss": "^6.3.0",
+    "three": "^0.164.1"
+  },
+  "dependencies": {
+    "@solidjs/meta": "^0.29.3",
+    "@solidjs/router": "^0.13.3",
+    "@solidjs/start": "^1.0.0-rc.1",
+    "solid-js": "^1.8.17",
+    "vinxi": "^0.3.11"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
