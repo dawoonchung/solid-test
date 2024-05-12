@@ -1,6 +1,7 @@
 {
   "name": "example-basic",
   "type": "module",
+  "packageManager": "pnpm@9.1.0",
   "scripts": {
     "dev": "vinxi dev",
     "build": "vinxi build",
