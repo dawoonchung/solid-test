@@ -1,0 +1,1 @@
+import{A as o}from"./azizi_life-Bv3r9fW_.js";import"./index-DqQpK0WU.js";import"./project.module-EaOodAWz.js";import"./external_link-B7gdbS7y.js";import"./cards-2sTdRlgu.js";import"./title-BCnMQUe6.js";import"./useInitProject-2tb3lrR1.js";export{o as default};

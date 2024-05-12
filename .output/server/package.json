@@ -1,0 +1,1 @@
+{"name":"example-basic-prod","version":"0.0.0","type":"module","private":true,"dependencies":{"bezier-easing":"2.1.0","classnames":"2.5.1","pathe":"1.1.2","seroval":"1.0.5","seroval-plugins":"1.0.5","solid-js":"1.8.17","std-env":"3.7.0","three":"0.164.1","vinxi":"0.3.11"}}

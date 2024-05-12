@@ -1,0 +1,2706 @@
+{
+  "_azizi_life-Bv3r9fW_.js": {
+    "file": "assets/azizi_life-Bv3r9fW_.js",
+    "name": "azizi_life",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_cards-2sTdRlgu.js",
+      "_external_link-B7gdbS7y.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ],
+    "assets": [
+      "assets/azizi-life-bg-lg-Bo_yiXU1.jpg",
+      "assets/azizi-life-bg-lg-DHjHYpzP.webp",
+      "assets/azizi-life-bg-md-NxUsm1Hs.jpg",
+      "assets/azizi-life-bg-md-vTv4uOMz.webp",
+      "assets/azizi-life-bg-portrait-1x-DZLUXak0.jpg",
+      "assets/azizi-life-bg-portrait-1x-CkrPOuuo.webp",
+      "assets/azizi-life-bg-portrait-2x-Bxg6HaQk.jpg",
+      "assets/azizi-life-bg-portrait-2x-DayXR2Ge.webp",
+      "assets/azizi-life-bg-portrait-3x-vxeQHpFW.jpg",
+      "assets/azizi-life-bg-portrait-3x-C-RTBvQt.webp",
+      "assets/azizi-life-bg-sm-B_kp-KuN.jpg",
+      "assets/azizi-life-bg-sm-BecgiDTP.webp",
+      "assets/azizi-life-bg-xl-BsolNflV.jpg",
+      "assets/azizi-life-bg-xl-6AJtJl7K.webp",
+      "assets/azizi-life-bg-xs-C6ruhnvU.jpg",
+      "assets/azizi-life-bg-xs-JkBziRv5.webp",
+      "assets/azizi-life-bg-DQBjOv_b.jpg",
+      "assets/azizi-life-bg-BadyiGLD.webp",
+      "assets/azizi-life-products-lg-DxOWPMkD.jpg",
+      "assets/azizi-life-products-lg-p9vpGGYP.webp",
+      "assets/azizi-life-products-md-DzRIwIiI.jpg",
+      "assets/azizi-life-products-md-Bej4DTpo.webp",
+      "assets/azizi-life-products-sm-BW-JYAjn.jpg",
+      "assets/azizi-life-products-sm-D4i_ctWg.webp",
+      "assets/azizi-life-products-xl-BsdKUEbU.jpg",
+      "assets/azizi-life-products-xl-D2wJ_CLm.webp",
+      "assets/azizi-life-products-xs-CmDLd4Tn.jpg",
+      "assets/azizi-life-products-xs-CdOOXMyt.webp",
+      "assets/azizi-life-products-B9SBbMKl.jpg",
+      "assets/azizi-life-products-CHPKdpAZ.webp",
+      "assets/booking-example-lg-CtJcqzM4.jpg",
+      "assets/booking-example-lg-CyffSIXL.webp",
+      "assets/booking-example-md-lRRicJ5s.jpg",
+      "assets/booking-example-md-Bt9B2Ma1.webp",
+      "assets/booking-example-sm-C6qZcWSF.jpg",
+      "assets/booking-example-sm-B8JROB2g.webp",
+      "assets/booking-example-xl-DwxLbfa4.jpg",
+      "assets/booking-example-xl-DSbwUI1J.webp",
+      "assets/booking-example-xs-CKj8wAL_.jpg",
+      "assets/booking-example-xs-BLx-hX9T.webp",
+      "assets/booking-example-CsWK0Aw1.jpg",
+      "assets/booking-example-DtotXJsl.webp",
+      "assets/product-images-lg-CXH9XHcQ.jpg",
+      "assets/product-images-lg-bK8qyxEt.webp",
+      "assets/product-images-md-CQxJZril.jpg",
+      "assets/product-images-md-CP-a7uyC.webp",
+      "assets/product-images-sm-CQy95n7-.jpg",
+      "assets/product-images-sm-DtzI4l66.webp",
+      "assets/product-images-xl-DeLHPI6q.jpg",
+      "assets/product-images-xl-Bd-kcwYO.webp",
+      "assets/product-images-xs-QaeFlC-8.jpg",
+      "assets/product-images-xs--52alU1R.webp",
+      "assets/product-images-cDDNeIs9.jpg",
+      "assets/product-images-XkZ_k4Hx.webp",
+      "assets/scaffolding-lg-B3ACXY1f.jpg",
+      "assets/scaffolding-lg-DCcudc-s.webp",
+      "assets/scaffolding-md-B9iT3poB.jpg",
+      "assets/scaffolding-md-U0BNL9Sl.webp",
+      "assets/scaffolding-sm-rXrFY5G2.jpg",
+      "assets/scaffolding-sm-CjxI0KSx.webp",
+      "assets/scaffolding-xl-DDrBlf3r.jpg",
+      "assets/scaffolding-xl-2T9rFPfc.webp",
+      "assets/scaffolding-xs-RVPUILZy.jpg",
+      "assets/scaffolding-xs-Dm3Amfcl.webp",
+      "assets/scaffolding-DHRm7LA6.jpg",
+      "assets/scaffolding-BuPnfCwk.webp",
+      "assets/theme-customisation-lg-BscsKYOV.jpg",
+      "assets/theme-customisation-lg-D_-d9Cy0.webp",
+      "assets/theme-customisation-md-DKTStYad.jpg",
+      "assets/theme-customisation-md-pu402NGP.webp",
+      "assets/theme-customisation-sm-C0IrW6ud.jpg",
+      "assets/theme-customisation-sm-4mgzs7PQ.webp",
+      "assets/theme-customisation-xl-Vo5WtZoa.jpg",
+      "assets/theme-customisation-xl-DhfefdLN.webp",
+      "assets/theme-customisation-xs-CpBdSIoe.jpg",
+      "assets/theme-customisation-xs-DZQxTKeW.webp",
+      "assets/theme-customisation-DpRq4ttC.jpg",
+      "assets/theme-customisation-CD2lMn8A.webp",
+      "assets/artisan-demo-BE9a9Spa.mp4",
+      "assets/artisan-demo-C8vyGZ6V.webm",
+      "assets/craft-experience-DYIwhO_h.mp4",
+      "assets/craft-experience-Rx1yhRrq.webm"
+    ]
+  },
+  "_cards-!~{00g}~.js": {
+    "file": "assets/cards-BkPdd_7o.css",
+    "src": "_cards-!~{00g}~.js"
+  },
+  "_cards-2sTdRlgu.js": {
+    "file": "assets/cards-2sTdRlgu.js",
+    "name": "cards",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js"
+    ],
+    "css": [
+      "assets/cards-BkPdd_7o.css"
+    ]
+  },
+  "_components-B-_Vht4o.js": {
+    "file": "assets/components-B-_Vht4o.js",
+    "name": "components",
+    "imports": [
+      "_index-DqQpK0WU.js"
+    ]
+  },
+  "_external_link-B7gdbS7y.js": {
+    "file": "assets/external_link-B7gdbS7y.js",
+    "name": "external_link",
+    "imports": [
+      "_index-DqQpK0WU.js"
+    ]
+  },
+  "_gallery-!~{00m}~.js": {
+    "file": "assets/gallery-DNaarHwY.css",
+    "src": "_gallery-!~{00m}~.js"
+  },
+  "_gallery-CcRWA5Tj.js": {
+    "file": "assets/gallery-CcRWA5Tj.js",
+    "name": "gallery",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js"
+    ],
+    "css": [
+      "assets/gallery-DNaarHwY.css"
+    ]
+  },
+  "_index-DqQpK0WU.js": {
+    "file": "assets/index-DqQpK0WU.js",
+    "name": "index"
+  },
+  "_mobility_study-BR6eicNC.js": {
+    "file": "assets/mobility_study-BR6eicNC.js",
+    "name": "mobility_study",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_cards-2sTdRlgu.js",
+      "_external_link-B7gdbS7y.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ],
+    "assets": [
+      "assets/amount-of-data-lg-YQ2PInG0.jpg",
+      "assets/amount-of-data-lg-r79osC-P.webp",
+      "assets/amount-of-data-md-CkLJlHp2.jpg",
+      "assets/amount-of-data-md-DqYc037D.webp",
+      "assets/amount-of-data-sm-LivS5PFs.jpg",
+      "assets/amount-of-data-sm-jlKeXtK1.webp",
+      "assets/amount-of-data-xl-DlYss6kM.jpg",
+      "assets/amount-of-data-xl-B8FrxW_d.webp",
+      "assets/amount-of-data-xs-IVOAaW8h.jpg",
+      "assets/amount-of-data-xs-D6tqADdH.webp",
+      "assets/amount-of-data-DK0TSrbQ.jpg",
+      "assets/amount-of-data-D_fvZkma.webp",
+      "assets/concept-sketch-lg-CpiPvLol.jpg",
+      "assets/concept-sketch-lg-DUtKCjcc.webp",
+      "assets/concept-sketch-md-DLGrJaYx.jpg",
+      "assets/concept-sketch-md-Bil7YEnh.webp",
+      "assets/concept-sketch-sm-BMXO0i70.jpg",
+      "assets/concept-sketch-sm-C3KErfwm.webp",
+      "assets/concept-sketch-xl-BU6o400b.jpg",
+      "assets/concept-sketch-xl-DbWDeO5n.webp",
+      "assets/concept-sketch-xs-BBBPUcpT.jpg",
+      "assets/concept-sketch-xs-xuTNLseg.webp",
+      "assets/concept-sketch-DRJIvW1I.jpg",
+      "assets/concept-sketch-CmKqbHEd.webp",
+      "assets/definition-of-viz-lg-C0yhKaoX.jpg",
+      "assets/definition-of-viz-lg-BQDbQS4M.webp",
+      "assets/definition-of-viz-md-vbjrzQoj.jpg",
+      "assets/definition-of-viz-md-DevuEnFP.webp",
+      "assets/definition-of-viz-sm-DPMVFnWn.jpg",
+      "assets/definition-of-viz-sm-CUugQ-Ob.webp",
+      "assets/definition-of-viz-xl-B0JeTARV.jpg",
+      "assets/definition-of-viz-xl-DEpmi9eJ.webp",
+      "assets/definition-of-viz-xs-ZX9kcYB-.jpg",
+      "assets/definition-of-viz-xs-Du5IV3MC.webp",
+      "assets/definition-of-viz-dC32fJaX.jpg",
+      "assets/definition-of-viz-BpaeorTQ.webp",
+      "assets/feeding-data-lg-VSuI8ZEd.jpg",
+      "assets/feeding-data-lg-Diz8Bk3j.webp",
+      "assets/feeding-data-md-f2DVJJ2x.jpg",
+      "assets/feeding-data-md-9o3ahHoB.webp",
+      "assets/feeding-data-sm-CbiTnN3B.jpg",
+      "assets/feeding-data-sm-Dq_XiAZc.webp",
+      "assets/feeding-data-xl-CgM2mYXj.jpg",
+      "assets/feeding-data-xl-DcWiEmIu.webp",
+      "assets/feeding-data-xs-I4SPQCFX.jpg",
+      "assets/feeding-data-xs-Bj5HrvU9.webp",
+      "assets/feeding-data-CBoX5c3N.jpg",
+      "assets/feeding-data-B3GN26sI.webp",
+      "assets/final-presentation-lg-CsC3ZvwB.jpg",
+      "assets/final-presentation-lg-CAeUcq50.webp",
+      "assets/final-presentation-md-BLOrpEMg.jpg",
+      "assets/final-presentation-md-Cne_HU_c.webp",
+      "assets/final-presentation-sm-9ZrUD6qc.jpg",
+      "assets/final-presentation-sm-DkN-y4rQ.webp",
+      "assets/final-presentation-xl-Hsj4u1xB.jpg",
+      "assets/final-presentation-xl-DtRswIUM.webp",
+      "assets/final-presentation-xs-BFfjzbYN.jpg",
+      "assets/final-presentation-xs-BTFZZQUv.webp",
+      "assets/final-presentation-DKGBHe11.jpg",
+      "assets/final-presentation-BBT590KF.webp",
+      "assets/mobility-study-bg-lg-BDECXC-U.jpg",
+      "assets/mobility-study-bg-lg-17lzNutd.webp",
+      "assets/mobility-study-bg-md-BanQZVFE.jpg",
+      "assets/mobility-study-bg-md-BGNaOgpQ.webp",
+      "assets/mobility-study-bg-portrait-1x-dC3b-rR_.jpg",
+      "assets/mobility-study-bg-portrait-1x-BohY03TH.webp",
+      "assets/mobility-study-bg-portrait-2x-7WcCy-Hy.jpg",
+      "assets/mobility-study-bg-portrait-2x-DFfMSVpi.webp",
+      "assets/mobility-study-bg-portrait-3x-DbamTBPR.jpg",
+      "assets/mobility-study-bg-portrait-3x-CDC5oMOn.webp",
+      "assets/mobility-study-bg-sm-BGa-oInd.jpg",
+      "assets/mobility-study-bg-sm-DuPAzTeD.webp",
+      "assets/mobility-study-bg-xl-CEjrjXLM.jpg",
+      "assets/mobility-study-bg-xl-l_0USaLu.webp",
+      "assets/mobility-study-bg-xs-DzN73A9N.jpg",
+      "assets/mobility-study-bg-xs-j7lsolGt.webp",
+      "assets/mobility-study-bg-DBNKGZyP.jpg",
+      "assets/mobility-study-bg-DwqZlcaC.webp",
+      "assets/post-its-lg-DZl4ViCe.jpg",
+      "assets/post-its-lg-COnHHvB1.webp",
+      "assets/post-its-md-DAh8h-LD.jpg",
+      "assets/post-its-md-s2aRQIIo.webp",
+      "assets/post-its-sm-Qprc4aE4.jpg",
+      "assets/post-its-sm-92Juvk9f.webp",
+      "assets/post-its-xl-CJeu4s5m.jpg",
+      "assets/post-its-xl-Duv6LrcA.webp",
+      "assets/post-its-xs-C350kfoH.jpg",
+      "assets/post-its-xs-DdrSsuHu.webp",
+      "assets/post-its-CElNyUxY.jpg",
+      "assets/post-its-Byq0pUui.webp",
+      "assets/spreadsheet-lg-BD5atB2C.jpg",
+      "assets/spreadsheet-lg-UahYuVhN.webp",
+      "assets/spreadsheet-md-oTEdxdpT.jpg",
+      "assets/spreadsheet-md-C3VobxnC.webp",
+      "assets/spreadsheet-sm-BHiIOre0.jpg",
+      "assets/spreadsheet-sm-DyrdvgCS.webp",
+      "assets/spreadsheet-xl-DjyNgFkv.jpg",
+      "assets/spreadsheet-xl-CAyz21vq.webp",
+      "assets/spreadsheet-xs-DvC5PIdK.jpg",
+      "assets/spreadsheet-xs-rNnGVJNM.webp",
+      "assets/spreadsheet--lMe48MH.jpg",
+      "assets/spreadsheet-BpcnnGUA.webp",
+      "assets/we-need-logic-lg-DHMHQ0-e.jpg",
+      "assets/we-need-logic-lg-C6qG2YBD.webp",
+      "assets/we-need-logic-md-BaTBYi-J.jpg",
+      "assets/we-need-logic-md-BDNUr3Wn.webp",
+      "assets/we-need-logic-sm-XJF_zVAt.jpg",
+      "assets/we-need-logic-sm-C92CAtJ1.webp",
+      "assets/we-need-logic-xl-CHwYJ_eD.jpg",
+      "assets/we-need-logic-xl-G_Kd5Jpl.webp",
+      "assets/we-need-logic-xs-BIBgMlWF.jpg",
+      "assets/we-need-logic-xs-sWBtDRKW.webp",
+      "assets/we-need-logic-Bz2xw325.jpg",
+      "assets/we-need-logic-D_pn_jwf.webp",
+      "assets/animation-demo-C9QrLBel.mp4",
+      "assets/animation-demo-BmsWG9_Z.webm",
+      "assets/theme-shape-f3zgbF_8.mp4",
+      "assets/theme-shape-BaiPb26d.webm",
+      "assets/tool-demo-C66tEYeI.mp4",
+      "assets/tool-demo-C1Xo5xup.webm"
+    ]
+  },
+  "_project.module-!~{00f}~.js": {
+    "file": "assets/project-CcGEgSPc.css",
+    "src": "_project.module-!~{00f}~.js"
+  },
+  "_project.module-EaOodAWz.js": {
+    "file": "assets/project.module-EaOodAWz.js",
+    "name": "project.module",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_external_link-B7gdbS7y.js"
+    ],
+    "css": [
+      "assets/project-CcGEgSPc.css"
+    ]
+  },
+  "_scroll_observer-Be1yZ45W.js": {
+    "file": "assets/scroll_observer-Be1yZ45W.js",
+    "name": "scroll_observer",
+    "imports": [
+      "_index-DqQpK0WU.js"
+    ]
+  },
+  "_synaesthesify-BjmP4kBu.js": {
+    "file": "assets/synaesthesify-BjmP4kBu.js",
+    "name": "synaesthesify",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_external_link-B7gdbS7y.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ],
+    "assets": [
+      "assets/at-equinox-lg-BSR6CBE5.jpg",
+      "assets/at-equinox-lg-NIWSl_eb.webp",
+      "assets/at-equinox-md-Dyop9fi_.jpg",
+      "assets/at-equinox-md-BphNDyZD.webp",
+      "assets/at-equinox-sm-CX6VlUps.jpg",
+      "assets/at-equinox-sm-B1rspy0M.webp",
+      "assets/at-equinox-xl-BFtyo1YZ.jpg",
+      "assets/at-equinox-xl-CrldTY5x.webp",
+      "assets/at-equinox-xs-7YrUrUuq.jpg",
+      "assets/at-equinox-xs-C5KFHN4g.webp",
+      "assets/at-equinox-x_r7Zn4u.jpg",
+      "assets/at-equinox-B4_6Cv2q.webp",
+      "assets/main-screen-lg-Ba381QWv.jpg",
+      "assets/main-screen-lg-B7YILnQH.webp",
+      "assets/main-screen-md-D4x5s7Mh.jpg",
+      "assets/main-screen-md-CvOVw1BD.webp",
+      "assets/main-screen-sm-D3IxYDtj.jpg",
+      "assets/main-screen-sm-BL4I1oCz.webp",
+      "assets/main-screen-xl-BtcNsaxO.jpg",
+      "assets/main-screen-xl-DZoxbMtT.webp",
+      "assets/main-screen-xs-BGyyZXG3.jpg",
+      "assets/main-screen-xs-BKm86smG.webp",
+      "assets/main-screen-C55xCIcq.jpg",
+      "assets/main-screen-DVd362Pz.webp",
+      "assets/sample-artwork-XUiOll_v.svg",
+      "assets/sample-chart-C0f2yUCw.svg",
+      "assets/sample-tweaks-D3BypgN2.svg",
+      "assets/synaesthesify-bg-CnfUqQQT.svg"
+    ]
+  },
+  "_title-!~{00d}~.js": {
+    "file": "assets/title-BVjjjL47.css",
+    "src": "_title-!~{00d}~.js"
+  },
+  "_title-BCnMQUe6.js": {
+    "file": "assets/title-BCnMQUe6.js",
+    "name": "title",
+    "imports": [
+      "_index-DqQpK0WU.js"
+    ],
+    "css": [
+      "assets/title-BVjjjL47.css"
+    ]
+  },
+  "_typing_practice--J82FoBw.js": {
+    "file": "assets/typing_practice--J82FoBw.js",
+    "name": "typing_practice",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_cards-2sTdRlgu.js",
+      "_external_link-B7gdbS7y.js",
+      "_gallery-CcRWA5Tj.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ],
+    "assets": [
+      "assets/application-lg-D9uffI9e.jpg",
+      "assets/application-lg-CLenPyn9.webp",
+      "assets/application-md-lVqClql0.jpg",
+      "assets/application-md-E16VRpgK.webp",
+      "assets/application-sm-_8-nqhjZ.jpg",
+      "assets/application-sm-hl_275qo.webp",
+      "assets/application-xl-C5OpLb5y.jpg",
+      "assets/application-xl-CoRXc5Ky.webp",
+      "assets/application-xs-UedUOX6M.jpg",
+      "assets/application-xs-CONWNNlm.webp",
+      "assets/application-B6uFBdlr.jpg",
+      "assets/application-ClePgXgC.webp",
+      "assets/level-complete-lg-y3VU1t_D.jpg",
+      "assets/level-complete-lg-zZgWC3Ui.webp",
+      "assets/level-complete-md-DXOjhV5q.jpg",
+      "assets/level-complete-md-DzRzmBPv.webp",
+      "assets/level-complete-sm-hNdhe6GR.jpg",
+      "assets/level-complete-sm-DIDXds1s.webp",
+      "assets/level-complete-xl-CUAi-avF.jpg",
+      "assets/level-complete-xl-qfN-k-mQ.webp",
+      "assets/level-complete-xs-C_hRPIBa.jpg",
+      "assets/level-complete-xs-DjwIV2Sx.webp",
+      "assets/level-complete-D4OI11qp.jpg",
+      "assets/level-complete-CcXO7qzq.webp",
+      "assets/level-selection-lg-HFZQZJMO.jpg",
+      "assets/level-selection-lg-fH1t1CWM.webp",
+      "assets/level-selection-md-iXSFGzo1.jpg",
+      "assets/level-selection-md-D5WgI0b9.webp",
+      "assets/level-selection-sm-CXMVJjPO.jpg",
+      "assets/level-selection-sm-8ziGeEDZ.webp",
+      "assets/level-selection-xl-CRWCS1bh.jpg",
+      "assets/level-selection-xl-DEIcOIZK.webp",
+      "assets/level-selection-xs-DNDMCUy_.jpg",
+      "assets/level-selection-xs-BezCRtwX.webp",
+      "assets/level-selection-CIIJyv6F.jpg",
+      "assets/level-selection-B-fcnqEG.webp",
+      "assets/long-paragraph-screen-lg-qeiYCezB.jpg",
+      "assets/long-paragraph-screen-lg-pZGItH4u.webp",
+      "assets/long-paragraph-screen-md-BUJlJgb6.jpg",
+      "assets/long-paragraph-screen-md-CHDuNopj.webp",
+      "assets/long-paragraph-screen-sm-B6Pvmi_W.jpg",
+      "assets/long-paragraph-screen-sm-Cf7UWHDj.webp",
+      "assets/long-paragraph-screen-xl-DO5IMn4o.jpg",
+      "assets/long-paragraph-screen-xl-yo-o-1qH.webp",
+      "assets/long-paragraph-screen-xs-DwnQ0lyc.jpg",
+      "assets/long-paragraph-screen-xs-DXmFW4zW.webp",
+      "assets/long-paragraph-screen-CqlE7i29.jpg",
+      "assets/long-paragraph-screen-QTTPXuva.webp",
+      "assets/long-paragraph-selection-lg-dmqJpSGl.jpg",
+      "assets/long-paragraph-selection-lg-BXtU-1dy.webp",
+      "assets/long-paragraph-selection-md-BAaZSn8j.jpg",
+      "assets/long-paragraph-selection-md-D5Tumc6Q.webp",
+      "assets/long-paragraph-selection-sm-Dcb6Ykf4.jpg",
+      "assets/long-paragraph-selection-sm-D35LzlKq.webp",
+      "assets/long-paragraph-selection-xl-DVEq2u7s.jpg",
+      "assets/long-paragraph-selection-xl-BBN4Gk6K.webp",
+      "assets/long-paragraph-selection-xs-CUaZotNk.jpg",
+      "assets/long-paragraph-selection-xs-B-mwksX_.webp",
+      "assets/long-paragraph-selection-Eb8Ppr-U.jpg",
+      "assets/long-paragraph-selection-BTvkzZgw.webp",
+      "assets/practice-screen-lg-D4diQkIF.jpg",
+      "assets/practice-screen-lg-LFbdHTMu.webp",
+      "assets/practice-screen-md-TceQG0Fy.jpg",
+      "assets/practice-screen-md-B_t-WLnp.webp",
+      "assets/practice-screen-sm-CjQo_8Xi.jpg",
+      "assets/practice-screen-sm-Dzh75bsh.webp",
+      "assets/practice-screen-xl-DHT8Epy_.jpg",
+      "assets/practice-screen-xl-BW1AUMu9.webp",
+      "assets/practice-screen-xs-BGd77xoV.jpg",
+      "assets/practice-screen-xs-X6Xmeq-A.webp",
+      "assets/practice-screen-BiEZdQUT.jpg",
+      "assets/practice-screen-qw_-8rTv.webp",
+      "assets/short-sentence-lg-BwQ0EePs.jpg",
+      "assets/short-sentence-lg-DoxuykwT.webp",
+      "assets/short-sentence-md-ClJpNtkb.jpg",
+      "assets/short-sentence-md-wkYVllpn.webp",
+      "assets/short-sentence-sm-COfJdsW4.jpg",
+      "assets/short-sentence-sm-DNZ2uAtI.webp",
+      "assets/short-sentence-xl-KMHsFMs_.jpg",
+      "assets/short-sentence-xl-D45W1tDf.webp",
+      "assets/short-sentence-xs-CErsTwCG.jpg",
+      "assets/short-sentence-xs-DdGV8sZQ.webp",
+      "assets/short-sentence-CpoHYIcc.jpg",
+      "assets/short-sentence-Cqiq0DE6.webp",
+      "assets/special-keys-lg-DsQNPJ8y.jpg",
+      "assets/special-keys-lg-DNm6dFdU.webp",
+      "assets/special-keys-md-CWEAat8w.jpg",
+      "assets/special-keys-md-6eXLAezB.webp",
+      "assets/special-keys-sm-D1Sc9LZr.jpg",
+      "assets/special-keys-sm-xx29mC6I.webp",
+      "assets/special-keys-xl-Cl_SUM1x.jpg",
+      "assets/special-keys-xl-CV7GW8fJ.webp",
+      "assets/special-keys-xs-u2T-DyxR.jpg",
+      "assets/special-keys-xs-C3H189no.webp",
+      "assets/special-keys-BkY5qoXM.jpg",
+      "assets/special-keys-6dPoKE0h.webp",
+      "assets/teaching-in-rwanda-lg-CFeDcweR.jpg",
+      "assets/teaching-in-rwanda-lg-Dic0BBYS.webp",
+      "assets/teaching-in-rwanda-md-ikK68Waw.jpg",
+      "assets/teaching-in-rwanda-md-DUtusymv.webp",
+      "assets/teaching-in-rwanda-sm-B1CaINQ-.jpg",
+      "assets/teaching-in-rwanda-sm-BQYMQuCK.webp",
+      "assets/teaching-in-rwanda-xl-nitpwkvy.jpg",
+      "assets/teaching-in-rwanda-xl-CY8UhGfE.webp",
+      "assets/teaching-in-rwanda-xs-CjFlmwEy.jpg",
+      "assets/teaching-in-rwanda-xs-fbFBJ9Qz.webp",
+      "assets/teaching-in-rwanda-B8mDTQ3P.jpg",
+      "assets/teaching-in-rwanda-DVkAE4F0.webp",
+      "assets/teaching-method-lg-NZ3VzdNM.jpg",
+      "assets/teaching-method-lg-DwRrp1TO.webp",
+      "assets/teaching-method-md-DcHingk6.jpg",
+      "assets/teaching-method-md-eqWaLXf_.webp",
+      "assets/teaching-method-sm-D5wc1H_D.jpg",
+      "assets/teaching-method-sm-B7QGNNXJ.webp",
+      "assets/teaching-method-xl-BZLGvbw-.jpg",
+      "assets/teaching-method-xl-KNXfFQfa.webp",
+      "assets/teaching-method-xs-B4Huh4GA.jpg",
+      "assets/teaching-method-xs-DccZTutq.webp",
+      "assets/teaching-method-rne_iSDC.jpg",
+      "assets/teaching-method-2-biUbR8.webp",
+      "assets/typing-demonstration-lg-ATW2jT1Z.jpg",
+      "assets/typing-demonstration-lg-B9vEHtp_.webp",
+      "assets/typing-demonstration-md-DIwPTprl.jpg",
+      "assets/typing-demonstration-md-GSaEMNj3.webp",
+      "assets/typing-demonstration-sm-Bek1B1TK.jpg",
+      "assets/typing-demonstration-sm-BFG9oHI8.webp",
+      "assets/typing-demonstration-xl-C8yy2ROK.jpg",
+      "assets/typing-demonstration-xl-BEGvtQ1T.webp",
+      "assets/typing-demonstration-xs-Cp7hcx6R.jpg",
+      "assets/typing-demonstration-xs-DNSrdvEg.webp",
+      "assets/typing-demonstration-HFHyrP03.jpg",
+      "assets/typing-demonstration-DkdwW7R_.webp",
+      "assets/typing-practice-bg-lg-DRq2XJwN.jpg",
+      "assets/typing-practice-bg-lg-4n0vKCCI.webp",
+      "assets/typing-practice-bg-md-CJktyRYQ.jpg",
+      "assets/typing-practice-bg-md-CynGGBMz.webp",
+      "assets/typing-practice-bg-portrait-1x-CZwee91p.jpg",
+      "assets/typing-practice-bg-portrait-1x-O4AgzaI0.webp",
+      "assets/typing-practice-bg-portrait-2x-BkxUEJSy.jpg",
+      "assets/typing-practice-bg-portrait-2x-D0x5N3KQ.webp",
+      "assets/typing-practice-bg-portrait-3x-CYaTgCxk.jpg",
+      "assets/typing-practice-bg-portrait-3x-CVk6Zzhv.webp",
+      "assets/typing-practice-bg-sm-CzOSnVKY.jpg",
+      "assets/typing-practice-bg-sm-CdTG1LzP.webp",
+      "assets/typing-practice-bg-xl-B_nbHeoR.jpg",
+      "assets/typing-practice-bg-xl-CAmlm8Zs.webp",
+      "assets/typing-practice-bg-xs-4KBlafXt.jpg",
+      "assets/typing-practice-bg-xs-Tnon3rvS.webp",
+      "assets/typing-practice-bg-BM8CBOax.jpg",
+      "assets/typing-practice-bg-CmHpZCDw.webp",
+      "assets/user-test-lg-OHhmWSc9.jpg",
+      "assets/user-test-lg-CfbfvdNK.webp",
+      "assets/user-test-md-CorLRY2n.jpg",
+      "assets/user-test-md-CgPZXP1N.webp",
+      "assets/user-test-sm-BuNpsXOY.jpg",
+      "assets/user-test-sm-BpbdMEjS.webp",
+      "assets/user-test-xl-DIfbX9fV.jpg",
+      "assets/user-test-xl-BQRyhKFQ.webp",
+      "assets/user-test-xs-DhpW7FI2.jpg",
+      "assets/user-test-xs-B7ZdFrij.webp",
+      "assets/user-test-B0QWPZD5.jpg",
+      "assets/user-test-CLZhRh3S.webp"
+    ]
+  },
+  "_useInitProject-2tb3lrR1.js": {
+    "file": "assets/useInitProject-2tb3lrR1.js",
+    "name": "useInitProject",
+    "imports": [
+      "_index-DqQpK0WU.js"
+    ]
+  },
+  "_visual_intelligence-!~{00l}~.js": {
+    "file": "assets/visual_intelligence-DFPHydm1.css",
+    "src": "_visual_intelligence-!~{00l}~.js"
+  },
+  "_visual_intelligence-CrCnbtnk.js": {
+    "file": "assets/visual_intelligence-CrCnbtnk.js",
+    "name": "visual_intelligence",
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_cards-2sTdRlgu.js",
+      "_external_link-B7gdbS7y.js",
+      "_gallery-CcRWA5Tj.js",
+      "_title-BCnMQUe6.js",
+      "_scroll_observer-Be1yZ45W.js"
+    ],
+    "css": [
+      "assets/visual_intelligence-DFPHydm1.css"
+    ],
+    "assets": [
+      "assets/ideation-process-lg-COjN3Waf.jpg",
+      "assets/ideation-process-lg-Cw6Imty8.webp",
+      "assets/ideation-process-md-D_GnXJx8.jpg",
+      "assets/ideation-process-md-Cnwk9hdE.webp",
+      "assets/ideation-process-sm-Bb_Px0Wz.jpg",
+      "assets/ideation-process-sm-DzIwQg0d.webp",
+      "assets/ideation-process-xl-KRY36lMx.jpg",
+      "assets/ideation-process-xl-54LvSaKA.webp",
+      "assets/ideation-process-xs-Bbm4WPn3.jpg",
+      "assets/ideation-process-xs-DW-fry78.webp",
+      "assets/ideation-process-t3DtQZ-I.jpg",
+      "assets/ideation-process-r8kfmqUL.webp",
+      "assets/scenario-1-lg-DKqUOH78.jpg",
+      "assets/scenario-1-lg-COSXkqCU.webp",
+      "assets/scenario-1-md-CWklRUTG.jpg",
+      "assets/scenario-1-md-BrDMy1n7.webp",
+      "assets/scenario-1-sm-DSEc51hp.jpg",
+      "assets/scenario-1-sm-gubkIrKT.webp",
+      "assets/scenario-1-xl-BWcB3iEx.jpg",
+      "assets/scenario-1-xl-CVIaT5tp.webp",
+      "assets/scenario-1-xs-BiHu06WK.jpg",
+      "assets/scenario-1-xs-BLHr-oca.webp",
+      "assets/scenario-1-ACJHiBEg.jpg",
+      "assets/scenario-1-BniVB34A.webp",
+      "assets/scenario-2-lg-nxkmAU2W.jpg",
+      "assets/scenario-2-lg-lnabbKpm.webp",
+      "assets/scenario-2-md-B9AxVBw4.jpg",
+      "assets/scenario-2-md-CnpaTFyA.webp",
+      "assets/scenario-2-sm-B_YTdguA.jpg",
+      "assets/scenario-2-sm-htwYrKnm.webp",
+      "assets/scenario-2-xl-FgkwJPFc.jpg",
+      "assets/scenario-2-xl-B2FAuJR_.webp",
+      "assets/scenario-2-xs-Ehwekpsx.jpg",
+      "assets/scenario-2-xs-H3vl0zmh.webp",
+      "assets/scenario-2-0oQaCBec.jpg",
+      "assets/scenario-2-CLNXJOhV.webp",
+      "assets/scenario-3-lg-SXfwXYOV.jpg",
+      "assets/scenario-3-lg-BzjST8gd.webp",
+      "assets/scenario-3-md-CpvBAmDM.jpg",
+      "assets/scenario-3-md-WPVIqNq6.webp",
+      "assets/scenario-3-sm-BcIzYOHN.jpg",
+      "assets/scenario-3-sm-N7LVeD00.webp",
+      "assets/scenario-3-xl-Y49W2wLf.jpg",
+      "assets/scenario-3-xl-B54hp5SF.webp",
+      "assets/scenario-3-xs-pGBxEMXH.jpg",
+      "assets/scenario-3-xs-B3VJEfqz.webp",
+      "assets/scenario-3-CyXE6G_T.jpg",
+      "assets/scenario-3-D9v1RzGv.webp",
+      "assets/scenario-4-lg-CBCpaRMu.jpg",
+      "assets/scenario-4-lg-BB5eO-09.webp",
+      "assets/scenario-4-md-Bf9dmPkr.jpg",
+      "assets/scenario-4-md-ph0C8NmU.webp",
+      "assets/scenario-4-sm-BHlFrh8w.jpg",
+      "assets/scenario-4-sm-DWADzoBU.webp",
+      "assets/scenario-4-xl-BU-_VuHS.jpg",
+      "assets/scenario-4-xl-B2QrCgiP.webp",
+      "assets/scenario-4-xs-H843F37i.jpg",
+      "assets/scenario-4-xs-B1VqBBU8.webp",
+      "assets/scenario-4-Djfnq_rE.jpg",
+      "assets/scenario-4-BuoA9ESb.webp",
+      "assets/scenario-5-lg-DVzyAbaO.jpg",
+      "assets/scenario-5-lg-BDUV1Fgd.webp",
+      "assets/scenario-5-md-DfiBCeS5.jpg",
+      "assets/scenario-5-md-DLGQgPly.webp",
+      "assets/scenario-5-sm-DJYumDPG.jpg",
+      "assets/scenario-5-sm-Bm8AL5Df.webp",
+      "assets/scenario-5-xl-ZRwwenD7.jpg",
+      "assets/scenario-5-xl-Do7didR0.webp",
+      "assets/scenario-5-xs-BiaIivxh.jpg",
+      "assets/scenario-5-xs-CiGZKrVt.webp",
+      "assets/scenario-5-Ce7xtJEL.jpg",
+      "assets/scenario-5-BmB1WsXg.webp",
+      "assets/scenario-6-lg-B-gSch8r.jpg",
+      "assets/scenario-6-lg-CI9an6Hf.webp",
+      "assets/scenario-6-md-CInblE_L.jpg",
+      "assets/scenario-6-md-CIF9smUq.webp",
+      "assets/scenario-6-sm-BGjZooiB.jpg",
+      "assets/scenario-6-sm-DU0Nz8Wi.webp",
+      "assets/scenario-6-xl-8bLUaqrC.jpg",
+      "assets/scenario-6-xl-D3yLaRvP.webp",
+      "assets/scenario-6-xs-OrB1yd1_.jpg",
+      "assets/scenario-6-xs-MBUJbM7N.webp",
+      "assets/scenario-6-mIZNyw2V.jpg",
+      "assets/scenario-6-B8GcqKNf.webp",
+      "assets/driver-3-D-NZZ1-l.svg",
+      "assets/driver-4-e2O6Wja2.svg"
+    ]
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-lg.jpg": {
+    "file": "assets/azizi-life-bg-lg-Bo_yiXU1.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-lg.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-lg.webp": {
+    "file": "assets/azizi-life-bg-lg-DHjHYpzP.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-lg.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-md.jpg": {
+    "file": "assets/azizi-life-bg-md-NxUsm1Hs.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-md.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-md.webp": {
+    "file": "assets/azizi-life-bg-md-vTv4uOMz.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-md.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-1x.jpg": {
+    "file": "assets/azizi-life-bg-portrait-1x-DZLUXak0.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-1x.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-1x.webp": {
+    "file": "assets/azizi-life-bg-portrait-1x-CkrPOuuo.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-1x.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-2x.jpg": {
+    "file": "assets/azizi-life-bg-portrait-2x-Bxg6HaQk.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-2x.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-2x.webp": {
+    "file": "assets/azizi-life-bg-portrait-2x-DayXR2Ge.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-2x.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-3x.jpg": {
+    "file": "assets/azizi-life-bg-portrait-3x-vxeQHpFW.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-3x.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-3x.webp": {
+    "file": "assets/azizi-life-bg-portrait-3x-C-RTBvQt.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-portrait-3x.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-sm.jpg": {
+    "file": "assets/azizi-life-bg-sm-B_kp-KuN.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-sm.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-sm.webp": {
+    "file": "assets/azizi-life-bg-sm-BecgiDTP.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-sm.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xl.jpg": {
+    "file": "assets/azizi-life-bg-xl-BsolNflV.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xl.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xl.webp": {
+    "file": "assets/azizi-life-bg-xl-6AJtJl7K.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xl.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xs.jpg": {
+    "file": "assets/azizi-life-bg-xs-C6ruhnvU.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xs.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xs.webp": {
+    "file": "assets/azizi-life-bg-xs-JkBziRv5.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg-xs.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg.jpg": {
+    "file": "assets/azizi-life-bg-DQBjOv_b.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg.webp": {
+    "file": "assets/azizi-life-bg-BadyiGLD.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_bg/azizi-life-bg.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-lg.jpg": {
+    "file": "assets/azizi-life-products-lg-DxOWPMkD.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-lg.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-lg.webp": {
+    "file": "assets/azizi-life-products-lg-p9vpGGYP.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-lg.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-md.jpg": {
+    "file": "assets/azizi-life-products-md-DzRIwIiI.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-md.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-md.webp": {
+    "file": "assets/azizi-life-products-md-Bej4DTpo.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-md.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-sm.jpg": {
+    "file": "assets/azizi-life-products-sm-BW-JYAjn.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-sm.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-sm.webp": {
+    "file": "assets/azizi-life-products-sm-D4i_ctWg.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-sm.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xl.jpg": {
+    "file": "assets/azizi-life-products-xl-BsdKUEbU.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xl.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xl.webp": {
+    "file": "assets/azizi-life-products-xl-D2wJ_CLm.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xl.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xs.jpg": {
+    "file": "assets/azizi-life-products-xs-CmDLd4Tn.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xs.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xs.webp": {
+    "file": "assets/azizi-life-products-xs-CdOOXMyt.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products-xs.webp"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products.jpg": {
+    "file": "assets/azizi-life-products-B9SBbMKl.jpg",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products.jpg"
+  },
+  "src/pages/azizi_life/images/azizi_life_products/azizi-life-products.webp": {
+    "file": "assets/azizi-life-products-CHPKdpAZ.webp",
+    "src": "src/pages/azizi_life/images/azizi_life_products/azizi-life-products.webp"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-lg.jpg": {
+    "file": "assets/booking-example-lg-CtJcqzM4.jpg",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-lg.jpg"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-lg.webp": {
+    "file": "assets/booking-example-lg-CyffSIXL.webp",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-lg.webp"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-md.jpg": {
+    "file": "assets/booking-example-md-lRRicJ5s.jpg",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-md.jpg"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-md.webp": {
+    "file": "assets/booking-example-md-Bt9B2Ma1.webp",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-md.webp"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-sm.jpg": {
+    "file": "assets/booking-example-sm-C6qZcWSF.jpg",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-sm.jpg"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-sm.webp": {
+    "file": "assets/booking-example-sm-B8JROB2g.webp",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-sm.webp"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-xl.jpg": {
+    "file": "assets/booking-example-xl-DwxLbfa4.jpg",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-xl.jpg"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-xl.webp": {
+    "file": "assets/booking-example-xl-DSbwUI1J.webp",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-xl.webp"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-xs.jpg": {
+    "file": "assets/booking-example-xs-CKj8wAL_.jpg",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-xs.jpg"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example-xs.webp": {
+    "file": "assets/booking-example-xs-BLx-hX9T.webp",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example-xs.webp"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example.jpg": {
+    "file": "assets/booking-example-CsWK0Aw1.jpg",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example.jpg"
+  },
+  "src/pages/azizi_life/images/booking_example/booking-example.webp": {
+    "file": "assets/booking-example-DtotXJsl.webp",
+    "src": "src/pages/azizi_life/images/booking_example/booking-example.webp"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-lg.jpg": {
+    "file": "assets/product-images-lg-CXH9XHcQ.jpg",
+    "src": "src/pages/azizi_life/images/product_images/product-images-lg.jpg"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-lg.webp": {
+    "file": "assets/product-images-lg-bK8qyxEt.webp",
+    "src": "src/pages/azizi_life/images/product_images/product-images-lg.webp"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-md.jpg": {
+    "file": "assets/product-images-md-CQxJZril.jpg",
+    "src": "src/pages/azizi_life/images/product_images/product-images-md.jpg"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-md.webp": {
+    "file": "assets/product-images-md-CP-a7uyC.webp",
+    "src": "src/pages/azizi_life/images/product_images/product-images-md.webp"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-sm.jpg": {
+    "file": "assets/product-images-sm-CQy95n7-.jpg",
+    "src": "src/pages/azizi_life/images/product_images/product-images-sm.jpg"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-sm.webp": {
+    "file": "assets/product-images-sm-DtzI4l66.webp",
+    "src": "src/pages/azizi_life/images/product_images/product-images-sm.webp"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-xl.jpg": {
+    "file": "assets/product-images-xl-DeLHPI6q.jpg",
+    "src": "src/pages/azizi_life/images/product_images/product-images-xl.jpg"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-xl.webp": {
+    "file": "assets/product-images-xl-Bd-kcwYO.webp",
+    "src": "src/pages/azizi_life/images/product_images/product-images-xl.webp"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-xs.jpg": {
+    "file": "assets/product-images-xs-QaeFlC-8.jpg",
+    "src": "src/pages/azizi_life/images/product_images/product-images-xs.jpg"
+  },
+  "src/pages/azizi_life/images/product_images/product-images-xs.webp": {
+    "file": "assets/product-images-xs--52alU1R.webp",
+    "src": "src/pages/azizi_life/images/product_images/product-images-xs.webp"
+  },
+  "src/pages/azizi_life/images/product_images/product-images.jpg": {
+    "file": "assets/product-images-cDDNeIs9.jpg",
+    "src": "src/pages/azizi_life/images/product_images/product-images.jpg"
+  },
+  "src/pages/azizi_life/images/product_images/product-images.webp": {
+    "file": "assets/product-images-XkZ_k4Hx.webp",
+    "src": "src/pages/azizi_life/images/product_images/product-images.webp"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-lg.jpg": {
+    "file": "assets/scaffolding-lg-B3ACXY1f.jpg",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-lg.jpg"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-lg.webp": {
+    "file": "assets/scaffolding-lg-DCcudc-s.webp",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-lg.webp"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-md.jpg": {
+    "file": "assets/scaffolding-md-B9iT3poB.jpg",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-md.jpg"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-md.webp": {
+    "file": "assets/scaffolding-md-U0BNL9Sl.webp",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-md.webp"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-sm.jpg": {
+    "file": "assets/scaffolding-sm-rXrFY5G2.jpg",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-sm.jpg"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-sm.webp": {
+    "file": "assets/scaffolding-sm-CjxI0KSx.webp",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-sm.webp"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-xl.jpg": {
+    "file": "assets/scaffolding-xl-DDrBlf3r.jpg",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-xl.jpg"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-xl.webp": {
+    "file": "assets/scaffolding-xl-2T9rFPfc.webp",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-xl.webp"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-xs.jpg": {
+    "file": "assets/scaffolding-xs-RVPUILZy.jpg",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-xs.jpg"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding-xs.webp": {
+    "file": "assets/scaffolding-xs-Dm3Amfcl.webp",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding-xs.webp"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding.jpg": {
+    "file": "assets/scaffolding-DHRm7LA6.jpg",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding.jpg"
+  },
+  "src/pages/azizi_life/images/scaffolding/scaffolding.webp": {
+    "file": "assets/scaffolding-BuPnfCwk.webp",
+    "src": "src/pages/azizi_life/images/scaffolding/scaffolding.webp"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-lg.jpg": {
+    "file": "assets/theme-customisation-lg-BscsKYOV.jpg",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-lg.jpg"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-lg.webp": {
+    "file": "assets/theme-customisation-lg-D_-d9Cy0.webp",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-lg.webp"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-md.jpg": {
+    "file": "assets/theme-customisation-md-DKTStYad.jpg",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-md.jpg"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-md.webp": {
+    "file": "assets/theme-customisation-md-pu402NGP.webp",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-md.webp"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-sm.jpg": {
+    "file": "assets/theme-customisation-sm-C0IrW6ud.jpg",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-sm.jpg"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-sm.webp": {
+    "file": "assets/theme-customisation-sm-4mgzs7PQ.webp",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-sm.webp"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-xl.jpg": {
+    "file": "assets/theme-customisation-xl-Vo5WtZoa.jpg",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-xl.jpg"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-xl.webp": {
+    "file": "assets/theme-customisation-xl-DhfefdLN.webp",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-xl.webp"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-xs.jpg": {
+    "file": "assets/theme-customisation-xs-CpBdSIoe.jpg",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-xs.jpg"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation-xs.webp": {
+    "file": "assets/theme-customisation-xs-DZQxTKeW.webp",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation-xs.webp"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation.jpg": {
+    "file": "assets/theme-customisation-DpRq4ttC.jpg",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation.jpg"
+  },
+  "src/pages/azizi_life/images/theme_customisation/theme-customisation.webp": {
+    "file": "assets/theme-customisation-CD2lMn8A.webp",
+    "src": "src/pages/azizi_life/images/theme_customisation/theme-customisation.webp"
+  },
+  "src/pages/azizi_life/videos/artisan-demo.mp4": {
+    "file": "assets/artisan-demo-BE9a9Spa.mp4",
+    "src": "src/pages/azizi_life/videos/artisan-demo.mp4"
+  },
+  "src/pages/azizi_life/videos/artisan-demo.webm": {
+    "file": "assets/artisan-demo-C8vyGZ6V.webm",
+    "src": "src/pages/azizi_life/videos/artisan-demo.webm"
+  },
+  "src/pages/azizi_life/videos/craft-experience.mp4": {
+    "file": "assets/craft-experience-DYIwhO_h.mp4",
+    "src": "src/pages/azizi_life/videos/craft-experience.mp4"
+  },
+  "src/pages/azizi_life/videos/craft-experience.webm": {
+    "file": "assets/craft-experience-Rx1yhRrq.webm",
+    "src": "src/pages/azizi_life/videos/craft-experience.webm"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-lg.jpg": {
+    "file": "assets/amount-of-data-lg-YQ2PInG0.jpg",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-lg.jpg"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-lg.webp": {
+    "file": "assets/amount-of-data-lg-r79osC-P.webp",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-lg.webp"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-md.jpg": {
+    "file": "assets/amount-of-data-md-CkLJlHp2.jpg",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-md.jpg"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-md.webp": {
+    "file": "assets/amount-of-data-md-DqYc037D.webp",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-md.webp"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-sm.jpg": {
+    "file": "assets/amount-of-data-sm-LivS5PFs.jpg",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-sm.jpg"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-sm.webp": {
+    "file": "assets/amount-of-data-sm-jlKeXtK1.webp",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-sm.webp"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-xl.jpg": {
+    "file": "assets/amount-of-data-xl-DlYss6kM.jpg",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-xl.jpg"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-xl.webp": {
+    "file": "assets/amount-of-data-xl-B8FrxW_d.webp",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-xl.webp"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-xs.jpg": {
+    "file": "assets/amount-of-data-xs-IVOAaW8h.jpg",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-xs.jpg"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data-xs.webp": {
+    "file": "assets/amount-of-data-xs-D6tqADdH.webp",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data-xs.webp"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data.jpg": {
+    "file": "assets/amount-of-data-DK0TSrbQ.jpg",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data.jpg"
+  },
+  "src/pages/mobility_study/images/amount_of_data/amount-of-data.webp": {
+    "file": "assets/amount-of-data-D_fvZkma.webp",
+    "src": "src/pages/mobility_study/images/amount_of_data/amount-of-data.webp"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-lg.jpg": {
+    "file": "assets/concept-sketch-lg-CpiPvLol.jpg",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-lg.jpg"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-lg.webp": {
+    "file": "assets/concept-sketch-lg-DUtKCjcc.webp",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-lg.webp"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-md.jpg": {
+    "file": "assets/concept-sketch-md-DLGrJaYx.jpg",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-md.jpg"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-md.webp": {
+    "file": "assets/concept-sketch-md-Bil7YEnh.webp",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-md.webp"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-sm.jpg": {
+    "file": "assets/concept-sketch-sm-BMXO0i70.jpg",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-sm.jpg"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-sm.webp": {
+    "file": "assets/concept-sketch-sm-C3KErfwm.webp",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-sm.webp"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-xl.jpg": {
+    "file": "assets/concept-sketch-xl-BU6o400b.jpg",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-xl.jpg"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-xl.webp": {
+    "file": "assets/concept-sketch-xl-DbWDeO5n.webp",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-xl.webp"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-xs.jpg": {
+    "file": "assets/concept-sketch-xs-BBBPUcpT.jpg",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-xs.jpg"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch-xs.webp": {
+    "file": "assets/concept-sketch-xs-xuTNLseg.webp",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch-xs.webp"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch.jpg": {
+    "file": "assets/concept-sketch-DRJIvW1I.jpg",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch.jpg"
+  },
+  "src/pages/mobility_study/images/concept_sketch/concept-sketch.webp": {
+    "file": "assets/concept-sketch-CmKqbHEd.webp",
+    "src": "src/pages/mobility_study/images/concept_sketch/concept-sketch.webp"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-lg.jpg": {
+    "file": "assets/definition-of-viz-lg-C0yhKaoX.jpg",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-lg.jpg"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-lg.webp": {
+    "file": "assets/definition-of-viz-lg-BQDbQS4M.webp",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-lg.webp"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-md.jpg": {
+    "file": "assets/definition-of-viz-md-vbjrzQoj.jpg",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-md.jpg"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-md.webp": {
+    "file": "assets/definition-of-viz-md-DevuEnFP.webp",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-md.webp"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-sm.jpg": {
+    "file": "assets/definition-of-viz-sm-DPMVFnWn.jpg",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-sm.jpg"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-sm.webp": {
+    "file": "assets/definition-of-viz-sm-CUugQ-Ob.webp",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-sm.webp"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xl.jpg": {
+    "file": "assets/definition-of-viz-xl-B0JeTARV.jpg",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xl.jpg"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xl.webp": {
+    "file": "assets/definition-of-viz-xl-DEpmi9eJ.webp",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xl.webp"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xs.jpg": {
+    "file": "assets/definition-of-viz-xs-ZX9kcYB-.jpg",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xs.jpg"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xs.webp": {
+    "file": "assets/definition-of-viz-xs-Du5IV3MC.webp",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz-xs.webp"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz.jpg": {
+    "file": "assets/definition-of-viz-dC32fJaX.jpg",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz.jpg"
+  },
+  "src/pages/mobility_study/images/definition_of_viz/definition-of-viz.webp": {
+    "file": "assets/definition-of-viz-BpaeorTQ.webp",
+    "src": "src/pages/mobility_study/images/definition_of_viz/definition-of-viz.webp"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-lg.jpg": {
+    "file": "assets/feeding-data-lg-VSuI8ZEd.jpg",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-lg.jpg"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-lg.webp": {
+    "file": "assets/feeding-data-lg-Diz8Bk3j.webp",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-lg.webp"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-md.jpg": {
+    "file": "assets/feeding-data-md-f2DVJJ2x.jpg",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-md.jpg"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-md.webp": {
+    "file": "assets/feeding-data-md-9o3ahHoB.webp",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-md.webp"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-sm.jpg": {
+    "file": "assets/feeding-data-sm-CbiTnN3B.jpg",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-sm.jpg"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-sm.webp": {
+    "file": "assets/feeding-data-sm-Dq_XiAZc.webp",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-sm.webp"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-xl.jpg": {
+    "file": "assets/feeding-data-xl-CgM2mYXj.jpg",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-xl.jpg"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-xl.webp": {
+    "file": "assets/feeding-data-xl-DcWiEmIu.webp",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-xl.webp"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-xs.jpg": {
+    "file": "assets/feeding-data-xs-I4SPQCFX.jpg",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-xs.jpg"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data-xs.webp": {
+    "file": "assets/feeding-data-xs-Bj5HrvU9.webp",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data-xs.webp"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data.jpg": {
+    "file": "assets/feeding-data-CBoX5c3N.jpg",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data.jpg"
+  },
+  "src/pages/mobility_study/images/feeding_data/feeding-data.webp": {
+    "file": "assets/feeding-data-B3GN26sI.webp",
+    "src": "src/pages/mobility_study/images/feeding_data/feeding-data.webp"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-lg.jpg": {
+    "file": "assets/final-presentation-lg-CsC3ZvwB.jpg",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-lg.jpg"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-lg.webp": {
+    "file": "assets/final-presentation-lg-CAeUcq50.webp",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-lg.webp"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-md.jpg": {
+    "file": "assets/final-presentation-md-BLOrpEMg.jpg",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-md.jpg"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-md.webp": {
+    "file": "assets/final-presentation-md-Cne_HU_c.webp",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-md.webp"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-sm.jpg": {
+    "file": "assets/final-presentation-sm-9ZrUD6qc.jpg",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-sm.jpg"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-sm.webp": {
+    "file": "assets/final-presentation-sm-DkN-y4rQ.webp",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-sm.webp"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-xl.jpg": {
+    "file": "assets/final-presentation-xl-Hsj4u1xB.jpg",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-xl.jpg"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-xl.webp": {
+    "file": "assets/final-presentation-xl-DtRswIUM.webp",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-xl.webp"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-xs.jpg": {
+    "file": "assets/final-presentation-xs-BFfjzbYN.jpg",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-xs.jpg"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation-xs.webp": {
+    "file": "assets/final-presentation-xs-BTFZZQUv.webp",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation-xs.webp"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation.jpg": {
+    "file": "assets/final-presentation-DKGBHe11.jpg",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation.jpg"
+  },
+  "src/pages/mobility_study/images/final_presentation/final-presentation.webp": {
+    "file": "assets/final-presentation-BBT590KF.webp",
+    "src": "src/pages/mobility_study/images/final_presentation/final-presentation.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-lg.jpg": {
+    "file": "assets/mobility-study-bg-lg-BDECXC-U.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-lg.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-lg.webp": {
+    "file": "assets/mobility-study-bg-lg-17lzNutd.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-lg.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-md.jpg": {
+    "file": "assets/mobility-study-bg-md-BanQZVFE.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-md.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-md.webp": {
+    "file": "assets/mobility-study-bg-md-BGNaOgpQ.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-md.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-1x.jpg": {
+    "file": "assets/mobility-study-bg-portrait-1x-dC3b-rR_.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-1x.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-1x.webp": {
+    "file": "assets/mobility-study-bg-portrait-1x-BohY03TH.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-1x.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-2x.jpg": {
+    "file": "assets/mobility-study-bg-portrait-2x-7WcCy-Hy.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-2x.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-2x.webp": {
+    "file": "assets/mobility-study-bg-portrait-2x-DFfMSVpi.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-2x.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-3x.jpg": {
+    "file": "assets/mobility-study-bg-portrait-3x-DbamTBPR.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-3x.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-3x.webp": {
+    "file": "assets/mobility-study-bg-portrait-3x-CDC5oMOn.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-portrait-3x.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-sm.jpg": {
+    "file": "assets/mobility-study-bg-sm-BGa-oInd.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-sm.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-sm.webp": {
+    "file": "assets/mobility-study-bg-sm-DuPAzTeD.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-sm.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xl.jpg": {
+    "file": "assets/mobility-study-bg-xl-CEjrjXLM.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xl.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xl.webp": {
+    "file": "assets/mobility-study-bg-xl-l_0USaLu.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xl.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xs.jpg": {
+    "file": "assets/mobility-study-bg-xs-DzN73A9N.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xs.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xs.webp": {
+    "file": "assets/mobility-study-bg-xs-j7lsolGt.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg-xs.webp"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg.jpg": {
+    "file": "assets/mobility-study-bg-DBNKGZyP.jpg",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg.jpg"
+  },
+  "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg.webp": {
+    "file": "assets/mobility-study-bg-DwqZlcaC.webp",
+    "src": "src/pages/mobility_study/images/mobility_study_bg/mobility-study-bg.webp"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-lg.jpg": {
+    "file": "assets/post-its-lg-DZl4ViCe.jpg",
+    "src": "src/pages/mobility_study/images/post_its/post-its-lg.jpg"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-lg.webp": {
+    "file": "assets/post-its-lg-COnHHvB1.webp",
+    "src": "src/pages/mobility_study/images/post_its/post-its-lg.webp"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-md.jpg": {
+    "file": "assets/post-its-md-DAh8h-LD.jpg",
+    "src": "src/pages/mobility_study/images/post_its/post-its-md.jpg"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-md.webp": {
+    "file": "assets/post-its-md-s2aRQIIo.webp",
+    "src": "src/pages/mobility_study/images/post_its/post-its-md.webp"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-sm.jpg": {
+    "file": "assets/post-its-sm-Qprc4aE4.jpg",
+    "src": "src/pages/mobility_study/images/post_its/post-its-sm.jpg"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-sm.webp": {
+    "file": "assets/post-its-sm-92Juvk9f.webp",
+    "src": "src/pages/mobility_study/images/post_its/post-its-sm.webp"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-xl.jpg": {
+    "file": "assets/post-its-xl-CJeu4s5m.jpg",
+    "src": "src/pages/mobility_study/images/post_its/post-its-xl.jpg"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-xl.webp": {
+    "file": "assets/post-its-xl-Duv6LrcA.webp",
+    "src": "src/pages/mobility_study/images/post_its/post-its-xl.webp"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-xs.jpg": {
+    "file": "assets/post-its-xs-C350kfoH.jpg",
+    "src": "src/pages/mobility_study/images/post_its/post-its-xs.jpg"
+  },
+  "src/pages/mobility_study/images/post_its/post-its-xs.webp": {
+    "file": "assets/post-its-xs-DdrSsuHu.webp",
+    "src": "src/pages/mobility_study/images/post_its/post-its-xs.webp"
+  },
+  "src/pages/mobility_study/images/post_its/post-its.jpg": {
+    "file": "assets/post-its-CElNyUxY.jpg",
+    "src": "src/pages/mobility_study/images/post_its/post-its.jpg"
+  },
+  "src/pages/mobility_study/images/post_its/post-its.webp": {
+    "file": "assets/post-its-Byq0pUui.webp",
+    "src": "src/pages/mobility_study/images/post_its/post-its.webp"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-lg.jpg": {
+    "file": "assets/spreadsheet-lg-BD5atB2C.jpg",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-lg.jpg"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-lg.webp": {
+    "file": "assets/spreadsheet-lg-UahYuVhN.webp",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-lg.webp"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-md.jpg": {
+    "file": "assets/spreadsheet-md-oTEdxdpT.jpg",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-md.jpg"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-md.webp": {
+    "file": "assets/spreadsheet-md-C3VobxnC.webp",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-md.webp"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-sm.jpg": {
+    "file": "assets/spreadsheet-sm-BHiIOre0.jpg",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-sm.jpg"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-sm.webp": {
+    "file": "assets/spreadsheet-sm-DyrdvgCS.webp",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-sm.webp"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-xl.jpg": {
+    "file": "assets/spreadsheet-xl-DjyNgFkv.jpg",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-xl.jpg"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-xl.webp": {
+    "file": "assets/spreadsheet-xl-CAyz21vq.webp",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-xl.webp"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-xs.jpg": {
+    "file": "assets/spreadsheet-xs-DvC5PIdK.jpg",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-xs.jpg"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet-xs.webp": {
+    "file": "assets/spreadsheet-xs-rNnGVJNM.webp",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet-xs.webp"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet.jpg": {
+    "file": "assets/spreadsheet--lMe48MH.jpg",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet.jpg"
+  },
+  "src/pages/mobility_study/images/spreadsheet/spreadsheet.webp": {
+    "file": "assets/spreadsheet-BpcnnGUA.webp",
+    "src": "src/pages/mobility_study/images/spreadsheet/spreadsheet.webp"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-lg.jpg": {
+    "file": "assets/we-need-logic-lg-DHMHQ0-e.jpg",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-lg.jpg"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-lg.webp": {
+    "file": "assets/we-need-logic-lg-C6qG2YBD.webp",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-lg.webp"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-md.jpg": {
+    "file": "assets/we-need-logic-md-BaTBYi-J.jpg",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-md.jpg"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-md.webp": {
+    "file": "assets/we-need-logic-md-BDNUr3Wn.webp",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-md.webp"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-sm.jpg": {
+    "file": "assets/we-need-logic-sm-XJF_zVAt.jpg",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-sm.jpg"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-sm.webp": {
+    "file": "assets/we-need-logic-sm-C92CAtJ1.webp",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-sm.webp"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-xl.jpg": {
+    "file": "assets/we-need-logic-xl-CHwYJ_eD.jpg",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-xl.jpg"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-xl.webp": {
+    "file": "assets/we-need-logic-xl-G_Kd5Jpl.webp",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-xl.webp"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-xs.jpg": {
+    "file": "assets/we-need-logic-xs-BIBgMlWF.jpg",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-xs.jpg"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic-xs.webp": {
+    "file": "assets/we-need-logic-xs-sWBtDRKW.webp",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic-xs.webp"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic.jpg": {
+    "file": "assets/we-need-logic-Bz2xw325.jpg",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic.jpg"
+  },
+  "src/pages/mobility_study/images/we_need_logic/we-need-logic.webp": {
+    "file": "assets/we-need-logic-D_pn_jwf.webp",
+    "src": "src/pages/mobility_study/images/we_need_logic/we-need-logic.webp"
+  },
+  "src/pages/mobility_study/videos/animation-demo.mp4": {
+    "file": "assets/animation-demo-C9QrLBel.mp4",
+    "src": "src/pages/mobility_study/videos/animation-demo.mp4"
+  },
+  "src/pages/mobility_study/videos/animation-demo.webm": {
+    "file": "assets/animation-demo-BmsWG9_Z.webm",
+    "src": "src/pages/mobility_study/videos/animation-demo.webm"
+  },
+  "src/pages/mobility_study/videos/theme-shape.mp4": {
+    "file": "assets/theme-shape-f3zgbF_8.mp4",
+    "src": "src/pages/mobility_study/videos/theme-shape.mp4"
+  },
+  "src/pages/mobility_study/videos/theme-shape.webm": {
+    "file": "assets/theme-shape-BaiPb26d.webm",
+    "src": "src/pages/mobility_study/videos/theme-shape.webm"
+  },
+  "src/pages/mobility_study/videos/tool-demo.mp4": {
+    "file": "assets/tool-demo-C66tEYeI.mp4",
+    "src": "src/pages/mobility_study/videos/tool-demo.mp4"
+  },
+  "src/pages/mobility_study/videos/tool-demo.webm": {
+    "file": "assets/tool-demo-C1Xo5xup.webm",
+    "src": "src/pages/mobility_study/videos/tool-demo.webm"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-lg.jpg": {
+    "file": "assets/at-equinox-lg-BSR6CBE5.jpg",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-lg.jpg"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-lg.webp": {
+    "file": "assets/at-equinox-lg-NIWSl_eb.webp",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-lg.webp"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-md.jpg": {
+    "file": "assets/at-equinox-md-Dyop9fi_.jpg",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-md.jpg"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-md.webp": {
+    "file": "assets/at-equinox-md-BphNDyZD.webp",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-md.webp"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-sm.jpg": {
+    "file": "assets/at-equinox-sm-CX6VlUps.jpg",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-sm.jpg"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-sm.webp": {
+    "file": "assets/at-equinox-sm-B1rspy0M.webp",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-sm.webp"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-xl.jpg": {
+    "file": "assets/at-equinox-xl-BFtyo1YZ.jpg",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-xl.jpg"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-xl.webp": {
+    "file": "assets/at-equinox-xl-CrldTY5x.webp",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-xl.webp"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-xs.jpg": {
+    "file": "assets/at-equinox-xs-7YrUrUuq.jpg",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-xs.jpg"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox-xs.webp": {
+    "file": "assets/at-equinox-xs-C5KFHN4g.webp",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox-xs.webp"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox.jpg": {
+    "file": "assets/at-equinox-x_r7Zn4u.jpg",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox.jpg"
+  },
+  "src/pages/synaesthesify/images/at_equinox/at-equinox.webp": {
+    "file": "assets/at-equinox-B4_6Cv2q.webp",
+    "src": "src/pages/synaesthesify/images/at_equinox/at-equinox.webp"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-lg.jpg": {
+    "file": "assets/main-screen-lg-Ba381QWv.jpg",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-lg.jpg"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-lg.webp": {
+    "file": "assets/main-screen-lg-B7YILnQH.webp",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-lg.webp"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-md.jpg": {
+    "file": "assets/main-screen-md-D4x5s7Mh.jpg",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-md.jpg"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-md.webp": {
+    "file": "assets/main-screen-md-CvOVw1BD.webp",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-md.webp"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-sm.jpg": {
+    "file": "assets/main-screen-sm-D3IxYDtj.jpg",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-sm.jpg"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-sm.webp": {
+    "file": "assets/main-screen-sm-BL4I1oCz.webp",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-sm.webp"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-xl.jpg": {
+    "file": "assets/main-screen-xl-BtcNsaxO.jpg",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-xl.jpg"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-xl.webp": {
+    "file": "assets/main-screen-xl-DZoxbMtT.webp",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-xl.webp"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-xs.jpg": {
+    "file": "assets/main-screen-xs-BGyyZXG3.jpg",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-xs.jpg"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen-xs.webp": {
+    "file": "assets/main-screen-xs-BKm86smG.webp",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen-xs.webp"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen.jpg": {
+    "file": "assets/main-screen-C55xCIcq.jpg",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen.jpg"
+  },
+  "src/pages/synaesthesify/images/main_screen/main-screen.webp": {
+    "file": "assets/main-screen-DVd362Pz.webp",
+    "src": "src/pages/synaesthesify/images/main_screen/main-screen.webp"
+  },
+  "src/pages/synaesthesify/images/sample-artwork.svg": {
+    "file": "assets/sample-artwork-XUiOll_v.svg",
+    "src": "src/pages/synaesthesify/images/sample-artwork.svg"
+  },
+  "src/pages/synaesthesify/images/sample-chart.svg": {
+    "file": "assets/sample-chart-C0f2yUCw.svg",
+    "src": "src/pages/synaesthesify/images/sample-chart.svg"
+  },
+  "src/pages/synaesthesify/images/sample-tweaks.svg": {
+    "file": "assets/sample-tweaks-D3BypgN2.svg",
+    "src": "src/pages/synaesthesify/images/sample-tweaks.svg"
+  },
+  "src/pages/synaesthesify/images/synaesthesify-bg.svg": {
+    "file": "assets/synaesthesify-bg-CnfUqQQT.svg",
+    "src": "src/pages/synaesthesify/images/synaesthesify-bg.svg"
+  },
+  "src/pages/typing_practice/images/application/application-lg.jpg": {
+    "file": "assets/application-lg-D9uffI9e.jpg",
+    "src": "src/pages/typing_practice/images/application/application-lg.jpg"
+  },
+  "src/pages/typing_practice/images/application/application-lg.webp": {
+    "file": "assets/application-lg-CLenPyn9.webp",
+    "src": "src/pages/typing_practice/images/application/application-lg.webp"
+  },
+  "src/pages/typing_practice/images/application/application-md.jpg": {
+    "file": "assets/application-md-lVqClql0.jpg",
+    "src": "src/pages/typing_practice/images/application/application-md.jpg"
+  },
+  "src/pages/typing_practice/images/application/application-md.webp": {
+    "file": "assets/application-md-E16VRpgK.webp",
+    "src": "src/pages/typing_practice/images/application/application-md.webp"
+  },
+  "src/pages/typing_practice/images/application/application-sm.jpg": {
+    "file": "assets/application-sm-_8-nqhjZ.jpg",
+    "src": "src/pages/typing_practice/images/application/application-sm.jpg"
+  },
+  "src/pages/typing_practice/images/application/application-sm.webp": {
+    "file": "assets/application-sm-hl_275qo.webp",
+    "src": "src/pages/typing_practice/images/application/application-sm.webp"
+  },
+  "src/pages/typing_practice/images/application/application-xl.jpg": {
+    "file": "assets/application-xl-C5OpLb5y.jpg",
+    "src": "src/pages/typing_practice/images/application/application-xl.jpg"
+  },
+  "src/pages/typing_practice/images/application/application-xl.webp": {
+    "file": "assets/application-xl-CoRXc5Ky.webp",
+    "src": "src/pages/typing_practice/images/application/application-xl.webp"
+  },
+  "src/pages/typing_practice/images/application/application-xs.jpg": {
+    "file": "assets/application-xs-UedUOX6M.jpg",
+    "src": "src/pages/typing_practice/images/application/application-xs.jpg"
+  },
+  "src/pages/typing_practice/images/application/application-xs.webp": {
+    "file": "assets/application-xs-CONWNNlm.webp",
+    "src": "src/pages/typing_practice/images/application/application-xs.webp"
+  },
+  "src/pages/typing_practice/images/application/application.jpg": {
+    "file": "assets/application-B6uFBdlr.jpg",
+    "src": "src/pages/typing_practice/images/application/application.jpg"
+  },
+  "src/pages/typing_practice/images/application/application.webp": {
+    "file": "assets/application-ClePgXgC.webp",
+    "src": "src/pages/typing_practice/images/application/application.webp"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-lg.jpg": {
+    "file": "assets/level-complete-lg-y3VU1t_D.jpg",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-lg.jpg"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-lg.webp": {
+    "file": "assets/level-complete-lg-zZgWC3Ui.webp",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-lg.webp"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-md.jpg": {
+    "file": "assets/level-complete-md-DXOjhV5q.jpg",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-md.jpg"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-md.webp": {
+    "file": "assets/level-complete-md-DzRzmBPv.webp",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-md.webp"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-sm.jpg": {
+    "file": "assets/level-complete-sm-hNdhe6GR.jpg",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-sm.jpg"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-sm.webp": {
+    "file": "assets/level-complete-sm-DIDXds1s.webp",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-sm.webp"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-xl.jpg": {
+    "file": "assets/level-complete-xl-CUAi-avF.jpg",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-xl.jpg"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-xl.webp": {
+    "file": "assets/level-complete-xl-qfN-k-mQ.webp",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-xl.webp"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-xs.jpg": {
+    "file": "assets/level-complete-xs-C_hRPIBa.jpg",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-xs.jpg"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete-xs.webp": {
+    "file": "assets/level-complete-xs-DjwIV2Sx.webp",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete-xs.webp"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete.jpg": {
+    "file": "assets/level-complete-D4OI11qp.jpg",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete.jpg"
+  },
+  "src/pages/typing_practice/images/level_complete/level-complete.webp": {
+    "file": "assets/level-complete-CcXO7qzq.webp",
+    "src": "src/pages/typing_practice/images/level_complete/level-complete.webp"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-lg.jpg": {
+    "file": "assets/level-selection-lg-HFZQZJMO.jpg",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-lg.jpg"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-lg.webp": {
+    "file": "assets/level-selection-lg-fH1t1CWM.webp",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-lg.webp"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-md.jpg": {
+    "file": "assets/level-selection-md-iXSFGzo1.jpg",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-md.jpg"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-md.webp": {
+    "file": "assets/level-selection-md-D5WgI0b9.webp",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-md.webp"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-sm.jpg": {
+    "file": "assets/level-selection-sm-CXMVJjPO.jpg",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-sm.jpg"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-sm.webp": {
+    "file": "assets/level-selection-sm-8ziGeEDZ.webp",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-sm.webp"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-xl.jpg": {
+    "file": "assets/level-selection-xl-CRWCS1bh.jpg",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-xl.jpg"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-xl.webp": {
+    "file": "assets/level-selection-xl-DEIcOIZK.webp",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-xl.webp"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-xs.jpg": {
+    "file": "assets/level-selection-xs-DNDMCUy_.jpg",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-xs.jpg"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection-xs.webp": {
+    "file": "assets/level-selection-xs-BezCRtwX.webp",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection-xs.webp"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection.jpg": {
+    "file": "assets/level-selection-CIIJyv6F.jpg",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection.jpg"
+  },
+  "src/pages/typing_practice/images/level_selection/level-selection.webp": {
+    "file": "assets/level-selection-B-fcnqEG.webp",
+    "src": "src/pages/typing_practice/images/level_selection/level-selection.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-lg.jpg": {
+    "file": "assets/long-paragraph-screen-lg-qeiYCezB.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-lg.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-lg.webp": {
+    "file": "assets/long-paragraph-screen-lg-pZGItH4u.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-lg.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-md.jpg": {
+    "file": "assets/long-paragraph-screen-md-BUJlJgb6.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-md.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-md.webp": {
+    "file": "assets/long-paragraph-screen-md-CHDuNopj.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-md.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-sm.jpg": {
+    "file": "assets/long-paragraph-screen-sm-B6Pvmi_W.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-sm.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-sm.webp": {
+    "file": "assets/long-paragraph-screen-sm-Cf7UWHDj.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-sm.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xl.jpg": {
+    "file": "assets/long-paragraph-screen-xl-DO5IMn4o.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xl.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xl.webp": {
+    "file": "assets/long-paragraph-screen-xl-yo-o-1qH.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xl.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xs.jpg": {
+    "file": "assets/long-paragraph-screen-xs-DwnQ0lyc.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xs.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xs.webp": {
+    "file": "assets/long-paragraph-screen-xs-DXmFW4zW.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen-xs.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen.jpg": {
+    "file": "assets/long-paragraph-screen-CqlE7i29.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen.webp": {
+    "file": "assets/long-paragraph-screen-QTTPXuva.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_screen/long-paragraph-screen.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-lg.jpg": {
+    "file": "assets/long-paragraph-selection-lg-dmqJpSGl.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-lg.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-lg.webp": {
+    "file": "assets/long-paragraph-selection-lg-BXtU-1dy.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-lg.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-md.jpg": {
+    "file": "assets/long-paragraph-selection-md-BAaZSn8j.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-md.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-md.webp": {
+    "file": "assets/long-paragraph-selection-md-D5Tumc6Q.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-md.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-sm.jpg": {
+    "file": "assets/long-paragraph-selection-sm-Dcb6Ykf4.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-sm.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-sm.webp": {
+    "file": "assets/long-paragraph-selection-sm-D35LzlKq.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-sm.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xl.jpg": {
+    "file": "assets/long-paragraph-selection-xl-DVEq2u7s.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xl.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xl.webp": {
+    "file": "assets/long-paragraph-selection-xl-BBN4Gk6K.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xl.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xs.jpg": {
+    "file": "assets/long-paragraph-selection-xs-CUaZotNk.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xs.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xs.webp": {
+    "file": "assets/long-paragraph-selection-xs-B-mwksX_.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection-xs.webp"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection.jpg": {
+    "file": "assets/long-paragraph-selection-Eb8Ppr-U.jpg",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection.jpg"
+  },
+  "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection.webp": {
+    "file": "assets/long-paragraph-selection-BTvkzZgw.webp",
+    "src": "src/pages/typing_practice/images/long_paragraph_selection/long-paragraph-selection.webp"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-lg.jpg": {
+    "file": "assets/practice-screen-lg-D4diQkIF.jpg",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-lg.jpg"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-lg.webp": {
+    "file": "assets/practice-screen-lg-LFbdHTMu.webp",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-lg.webp"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-md.jpg": {
+    "file": "assets/practice-screen-md-TceQG0Fy.jpg",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-md.jpg"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-md.webp": {
+    "file": "assets/practice-screen-md-B_t-WLnp.webp",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-md.webp"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-sm.jpg": {
+    "file": "assets/practice-screen-sm-CjQo_8Xi.jpg",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-sm.jpg"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-sm.webp": {
+    "file": "assets/practice-screen-sm-Dzh75bsh.webp",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-sm.webp"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-xl.jpg": {
+    "file": "assets/practice-screen-xl-DHT8Epy_.jpg",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-xl.jpg"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-xl.webp": {
+    "file": "assets/practice-screen-xl-BW1AUMu9.webp",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-xl.webp"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-xs.jpg": {
+    "file": "assets/practice-screen-xs-BGd77xoV.jpg",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-xs.jpg"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen-xs.webp": {
+    "file": "assets/practice-screen-xs-X6Xmeq-A.webp",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen-xs.webp"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen.jpg": {
+    "file": "assets/practice-screen-BiEZdQUT.jpg",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen.jpg"
+  },
+  "src/pages/typing_practice/images/practice_screen/practice-screen.webp": {
+    "file": "assets/practice-screen-qw_-8rTv.webp",
+    "src": "src/pages/typing_practice/images/practice_screen/practice-screen.webp"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-lg.jpg": {
+    "file": "assets/short-sentence-lg-BwQ0EePs.jpg",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-lg.jpg"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-lg.webp": {
+    "file": "assets/short-sentence-lg-DoxuykwT.webp",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-lg.webp"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-md.jpg": {
+    "file": "assets/short-sentence-md-ClJpNtkb.jpg",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-md.jpg"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-md.webp": {
+    "file": "assets/short-sentence-md-wkYVllpn.webp",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-md.webp"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-sm.jpg": {
+    "file": "assets/short-sentence-sm-COfJdsW4.jpg",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-sm.jpg"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-sm.webp": {
+    "file": "assets/short-sentence-sm-DNZ2uAtI.webp",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-sm.webp"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-xl.jpg": {
+    "file": "assets/short-sentence-xl-KMHsFMs_.jpg",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-xl.jpg"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-xl.webp": {
+    "file": "assets/short-sentence-xl-D45W1tDf.webp",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-xl.webp"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-xs.jpg": {
+    "file": "assets/short-sentence-xs-CErsTwCG.jpg",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-xs.jpg"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence-xs.webp": {
+    "file": "assets/short-sentence-xs-DdGV8sZQ.webp",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence-xs.webp"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence.jpg": {
+    "file": "assets/short-sentence-CpoHYIcc.jpg",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence.jpg"
+  },
+  "src/pages/typing_practice/images/short_sentence/short-sentence.webp": {
+    "file": "assets/short-sentence-Cqiq0DE6.webp",
+    "src": "src/pages/typing_practice/images/short_sentence/short-sentence.webp"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-lg.jpg": {
+    "file": "assets/special-keys-lg-DsQNPJ8y.jpg",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-lg.jpg"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-lg.webp": {
+    "file": "assets/special-keys-lg-DNm6dFdU.webp",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-lg.webp"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-md.jpg": {
+    "file": "assets/special-keys-md-CWEAat8w.jpg",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-md.jpg"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-md.webp": {
+    "file": "assets/special-keys-md-6eXLAezB.webp",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-md.webp"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-sm.jpg": {
+    "file": "assets/special-keys-sm-D1Sc9LZr.jpg",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-sm.jpg"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-sm.webp": {
+    "file": "assets/special-keys-sm-xx29mC6I.webp",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-sm.webp"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-xl.jpg": {
+    "file": "assets/special-keys-xl-Cl_SUM1x.jpg",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-xl.jpg"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-xl.webp": {
+    "file": "assets/special-keys-xl-CV7GW8fJ.webp",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-xl.webp"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-xs.jpg": {
+    "file": "assets/special-keys-xs-u2T-DyxR.jpg",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-xs.jpg"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys-xs.webp": {
+    "file": "assets/special-keys-xs-C3H189no.webp",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys-xs.webp"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys.jpg": {
+    "file": "assets/special-keys-BkY5qoXM.jpg",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys.jpg"
+  },
+  "src/pages/typing_practice/images/special_keys/special-keys.webp": {
+    "file": "assets/special-keys-6dPoKE0h.webp",
+    "src": "src/pages/typing_practice/images/special_keys/special-keys.webp"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-lg.jpg": {
+    "file": "assets/teaching-in-rwanda-lg-CFeDcweR.jpg",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-lg.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-lg.webp": {
+    "file": "assets/teaching-in-rwanda-lg-Dic0BBYS.webp",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-lg.webp"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-md.jpg": {
+    "file": "assets/teaching-in-rwanda-md-ikK68Waw.jpg",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-md.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-md.webp": {
+    "file": "assets/teaching-in-rwanda-md-DUtusymv.webp",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-md.webp"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-sm.jpg": {
+    "file": "assets/teaching-in-rwanda-sm-B1CaINQ-.jpg",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-sm.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-sm.webp": {
+    "file": "assets/teaching-in-rwanda-sm-BQYMQuCK.webp",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-sm.webp"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xl.jpg": {
+    "file": "assets/teaching-in-rwanda-xl-nitpwkvy.jpg",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xl.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xl.webp": {
+    "file": "assets/teaching-in-rwanda-xl-CY8UhGfE.webp",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xl.webp"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xs.jpg": {
+    "file": "assets/teaching-in-rwanda-xs-CjFlmwEy.jpg",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xs.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xs.webp": {
+    "file": "assets/teaching-in-rwanda-xs-fbFBJ9Qz.webp",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda-xs.webp"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda.jpg": {
+    "file": "assets/teaching-in-rwanda-B8mDTQ3P.jpg",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda.webp": {
+    "file": "assets/teaching-in-rwanda-DVkAE4F0.webp",
+    "src": "src/pages/typing_practice/images/teaching_in_rwanda/teaching-in-rwanda.webp"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-lg.jpg": {
+    "file": "assets/teaching-method-lg-NZ3VzdNM.jpg",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-lg.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-lg.webp": {
+    "file": "assets/teaching-method-lg-DwRrp1TO.webp",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-lg.webp"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-md.jpg": {
+    "file": "assets/teaching-method-md-DcHingk6.jpg",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-md.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-md.webp": {
+    "file": "assets/teaching-method-md-eqWaLXf_.webp",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-md.webp"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-sm.jpg": {
+    "file": "assets/teaching-method-sm-D5wc1H_D.jpg",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-sm.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-sm.webp": {
+    "file": "assets/teaching-method-sm-B7QGNNXJ.webp",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-sm.webp"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-xl.jpg": {
+    "file": "assets/teaching-method-xl-BZLGvbw-.jpg",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-xl.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-xl.webp": {
+    "file": "assets/teaching-method-xl-KNXfFQfa.webp",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-xl.webp"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-xs.jpg": {
+    "file": "assets/teaching-method-xs-B4Huh4GA.jpg",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-xs.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method-xs.webp": {
+    "file": "assets/teaching-method-xs-DccZTutq.webp",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method-xs.webp"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method.jpg": {
+    "file": "assets/teaching-method-rne_iSDC.jpg",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method.jpg"
+  },
+  "src/pages/typing_practice/images/teaching_method/teaching-method.webp": {
+    "file": "assets/teaching-method-2-biUbR8.webp",
+    "src": "src/pages/typing_practice/images/teaching_method/teaching-method.webp"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-lg.jpg": {
+    "file": "assets/typing-demonstration-lg-ATW2jT1Z.jpg",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-lg.jpg"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-lg.webp": {
+    "file": "assets/typing-demonstration-lg-B9vEHtp_.webp",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-lg.webp"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-md.jpg": {
+    "file": "assets/typing-demonstration-md-DIwPTprl.jpg",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-md.jpg"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-md.webp": {
+    "file": "assets/typing-demonstration-md-GSaEMNj3.webp",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-md.webp"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-sm.jpg": {
+    "file": "assets/typing-demonstration-sm-Bek1B1TK.jpg",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-sm.jpg"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-sm.webp": {
+    "file": "assets/typing-demonstration-sm-BFG9oHI8.webp",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-sm.webp"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xl.jpg": {
+    "file": "assets/typing-demonstration-xl-C8yy2ROK.jpg",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xl.jpg"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xl.webp": {
+    "file": "assets/typing-demonstration-xl-BEGvtQ1T.webp",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xl.webp"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xs.jpg": {
+    "file": "assets/typing-demonstration-xs-Cp7hcx6R.jpg",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xs.jpg"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xs.webp": {
+    "file": "assets/typing-demonstration-xs-DNSrdvEg.webp",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration-xs.webp"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration.jpg": {
+    "file": "assets/typing-demonstration-HFHyrP03.jpg",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration.jpg"
+  },
+  "src/pages/typing_practice/images/typing_demonstration/typing-demonstration.webp": {
+    "file": "assets/typing-demonstration-DkdwW7R_.webp",
+    "src": "src/pages/typing_practice/images/typing_demonstration/typing-demonstration.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-lg.jpg": {
+    "file": "assets/typing-practice-bg-lg-DRq2XJwN.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-lg.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-lg.webp": {
+    "file": "assets/typing-practice-bg-lg-4n0vKCCI.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-lg.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-md.jpg": {
+    "file": "assets/typing-practice-bg-md-CJktyRYQ.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-md.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-md.webp": {
+    "file": "assets/typing-practice-bg-md-CynGGBMz.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-md.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-1x.jpg": {
+    "file": "assets/typing-practice-bg-portrait-1x-CZwee91p.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-1x.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-1x.webp": {
+    "file": "assets/typing-practice-bg-portrait-1x-O4AgzaI0.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-1x.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-2x.jpg": {
+    "file": "assets/typing-practice-bg-portrait-2x-BkxUEJSy.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-2x.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-2x.webp": {
+    "file": "assets/typing-practice-bg-portrait-2x-D0x5N3KQ.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-2x.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-3x.jpg": {
+    "file": "assets/typing-practice-bg-portrait-3x-CYaTgCxk.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-3x.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-3x.webp": {
+    "file": "assets/typing-practice-bg-portrait-3x-CVk6Zzhv.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-portrait-3x.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-sm.jpg": {
+    "file": "assets/typing-practice-bg-sm-CzOSnVKY.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-sm.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-sm.webp": {
+    "file": "assets/typing-practice-bg-sm-CdTG1LzP.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-sm.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xl.jpg": {
+    "file": "assets/typing-practice-bg-xl-B_nbHeoR.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xl.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xl.webp": {
+    "file": "assets/typing-practice-bg-xl-CAmlm8Zs.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xl.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xs.jpg": {
+    "file": "assets/typing-practice-bg-xs-4KBlafXt.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xs.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xs.webp": {
+    "file": "assets/typing-practice-bg-xs-Tnon3rvS.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg-xs.webp"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg.jpg": {
+    "file": "assets/typing-practice-bg-BM8CBOax.jpg",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg.jpg"
+  },
+  "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg.webp": {
+    "file": "assets/typing-practice-bg-CmHpZCDw.webp",
+    "src": "src/pages/typing_practice/images/typing_practice_bg/typing-practice-bg.webp"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-lg.jpg": {
+    "file": "assets/user-test-lg-OHhmWSc9.jpg",
+    "src": "src/pages/typing_practice/images/user_test/user-test-lg.jpg"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-lg.webp": {
+    "file": "assets/user-test-lg-CfbfvdNK.webp",
+    "src": "src/pages/typing_practice/images/user_test/user-test-lg.webp"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-md.jpg": {
+    "file": "assets/user-test-md-CorLRY2n.jpg",
+    "src": "src/pages/typing_practice/images/user_test/user-test-md.jpg"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-md.webp": {
+    "file": "assets/user-test-md-CgPZXP1N.webp",
+    "src": "src/pages/typing_practice/images/user_test/user-test-md.webp"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-sm.jpg": {
+    "file": "assets/user-test-sm-BuNpsXOY.jpg",
+    "src": "src/pages/typing_practice/images/user_test/user-test-sm.jpg"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-sm.webp": {
+    "file": "assets/user-test-sm-BpbdMEjS.webp",
+    "src": "src/pages/typing_practice/images/user_test/user-test-sm.webp"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-xl.jpg": {
+    "file": "assets/user-test-xl-DIfbX9fV.jpg",
+    "src": "src/pages/typing_practice/images/user_test/user-test-xl.jpg"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-xl.webp": {
+    "file": "assets/user-test-xl-BQRyhKFQ.webp",
+    "src": "src/pages/typing_practice/images/user_test/user-test-xl.webp"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-xs.jpg": {
+    "file": "assets/user-test-xs-DhpW7FI2.jpg",
+    "src": "src/pages/typing_practice/images/user_test/user-test-xs.jpg"
+  },
+  "src/pages/typing_practice/images/user_test/user-test-xs.webp": {
+    "file": "assets/user-test-xs-B7ZdFrij.webp",
+    "src": "src/pages/typing_practice/images/user_test/user-test-xs.webp"
+  },
+  "src/pages/typing_practice/images/user_test/user-test.jpg": {
+    "file": "assets/user-test-B0QWPZD5.jpg",
+    "src": "src/pages/typing_practice/images/user_test/user-test.jpg"
+  },
+  "src/pages/typing_practice/images/user_test/user-test.webp": {
+    "file": "assets/user-test-CLZhRh3S.webp",
+    "src": "src/pages/typing_practice/images/user_test/user-test.webp"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-lg.jpg": {
+    "file": "assets/ideation-process-lg-COjN3Waf.jpg",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-lg.webp": {
+    "file": "assets/ideation-process-lg-Cw6Imty8.webp",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-md.jpg": {
+    "file": "assets/ideation-process-md-D_GnXJx8.jpg",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-md.webp": {
+    "file": "assets/ideation-process-md-Cnwk9hdE.webp",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-md.webp"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-sm.jpg": {
+    "file": "assets/ideation-process-sm-Bb_Px0Wz.jpg",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-sm.webp": {
+    "file": "assets/ideation-process-sm-DzIwQg0d.webp",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xl.jpg": {
+    "file": "assets/ideation-process-xl-KRY36lMx.jpg",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xl.webp": {
+    "file": "assets/ideation-process-xl-54LvSaKA.webp",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xs.jpg": {
+    "file": "assets/ideation-process-xs-Bbm4WPn3.jpg",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xs.webp": {
+    "file": "assets/ideation-process-xs-DW-fry78.webp",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process.jpg": {
+    "file": "assets/ideation-process-t3DtQZ-I.jpg",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process.jpg"
+  },
+  "src/pages/visual_intelligence/images/IdeationProcess/ideation-process.webp": {
+    "file": "assets/ideation-process-r8kfmqUL.webp",
+    "src": "src/pages/visual_intelligence/images/IdeationProcess/ideation-process.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-lg.jpg": {
+    "file": "assets/scenario-1-lg-DKqUOH78.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-lg.webp": {
+    "file": "assets/scenario-1-lg-COSXkqCU.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-md.jpg": {
+    "file": "assets/scenario-1-md-CWklRUTG.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-md.webp": {
+    "file": "assets/scenario-1-md-BrDMy1n7.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-md.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-sm.jpg": {
+    "file": "assets/scenario-1-sm-DSEc51hp.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-sm.webp": {
+    "file": "assets/scenario-1-sm-gubkIrKT.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-xl.jpg": {
+    "file": "assets/scenario-1-xl-BWcB3iEx.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-xl.webp": {
+    "file": "assets/scenario-1-xl-CVIaT5tp.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-xs.jpg": {
+    "file": "assets/scenario-1-xs-BiHu06WK.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1-xs.webp": {
+    "file": "assets/scenario-1-xs-BLHr-oca.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1.jpg": {
+    "file": "assets/scenario-1-ACJHiBEg.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario1/scenario-1.webp": {
+    "file": "assets/scenario-1-BniVB34A.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario1/scenario-1.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-lg.jpg": {
+    "file": "assets/scenario-2-lg-nxkmAU2W.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-lg.webp": {
+    "file": "assets/scenario-2-lg-lnabbKpm.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-md.jpg": {
+    "file": "assets/scenario-2-md-B9AxVBw4.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-md.webp": {
+    "file": "assets/scenario-2-md-CnpaTFyA.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-md.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-sm.jpg": {
+    "file": "assets/scenario-2-sm-B_YTdguA.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-sm.webp": {
+    "file": "assets/scenario-2-sm-htwYrKnm.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-xl.jpg": {
+    "file": "assets/scenario-2-xl-FgkwJPFc.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-xl.webp": {
+    "file": "assets/scenario-2-xl-B2FAuJR_.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-xs.jpg": {
+    "file": "assets/scenario-2-xs-Ehwekpsx.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2-xs.webp": {
+    "file": "assets/scenario-2-xs-H3vl0zmh.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2.jpg": {
+    "file": "assets/scenario-2-0oQaCBec.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario2/scenario-2.webp": {
+    "file": "assets/scenario-2-CLNXJOhV.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario2/scenario-2.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-lg.jpg": {
+    "file": "assets/scenario-3-lg-SXfwXYOV.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-lg.webp": {
+    "file": "assets/scenario-3-lg-BzjST8gd.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-md.jpg": {
+    "file": "assets/scenario-3-md-CpvBAmDM.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-md.webp": {
+    "file": "assets/scenario-3-md-WPVIqNq6.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-md.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-sm.jpg": {
+    "file": "assets/scenario-3-sm-BcIzYOHN.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-sm.webp": {
+    "file": "assets/scenario-3-sm-N7LVeD00.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-xl.jpg": {
+    "file": "assets/scenario-3-xl-Y49W2wLf.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-xl.webp": {
+    "file": "assets/scenario-3-xl-B54hp5SF.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-xs.jpg": {
+    "file": "assets/scenario-3-xs-pGBxEMXH.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3-xs.webp": {
+    "file": "assets/scenario-3-xs-B3VJEfqz.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3.jpg": {
+    "file": "assets/scenario-3-CyXE6G_T.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario3/scenario-3.webp": {
+    "file": "assets/scenario-3-D9v1RzGv.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario3/scenario-3.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-lg.jpg": {
+    "file": "assets/scenario-4-lg-CBCpaRMu.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-lg.webp": {
+    "file": "assets/scenario-4-lg-BB5eO-09.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-md.jpg": {
+    "file": "assets/scenario-4-md-Bf9dmPkr.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-md.webp": {
+    "file": "assets/scenario-4-md-ph0C8NmU.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-md.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-sm.jpg": {
+    "file": "assets/scenario-4-sm-BHlFrh8w.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-sm.webp": {
+    "file": "assets/scenario-4-sm-DWADzoBU.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-xl.jpg": {
+    "file": "assets/scenario-4-xl-BU-_VuHS.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-xl.webp": {
+    "file": "assets/scenario-4-xl-B2QrCgiP.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-xs.jpg": {
+    "file": "assets/scenario-4-xs-H843F37i.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4-xs.webp": {
+    "file": "assets/scenario-4-xs-B1VqBBU8.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4.jpg": {
+    "file": "assets/scenario-4-Djfnq_rE.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario4/scenario-4.webp": {
+    "file": "assets/scenario-4-BuoA9ESb.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario4/scenario-4.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-lg.jpg": {
+    "file": "assets/scenario-5-lg-DVzyAbaO.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-lg.webp": {
+    "file": "assets/scenario-5-lg-BDUV1Fgd.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-md.jpg": {
+    "file": "assets/scenario-5-md-DfiBCeS5.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-md.webp": {
+    "file": "assets/scenario-5-md-DLGQgPly.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-md.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-sm.jpg": {
+    "file": "assets/scenario-5-sm-DJYumDPG.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-sm.webp": {
+    "file": "assets/scenario-5-sm-Bm8AL5Df.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-xl.jpg": {
+    "file": "assets/scenario-5-xl-ZRwwenD7.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-xl.webp": {
+    "file": "assets/scenario-5-xl-Do7didR0.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-xs.jpg": {
+    "file": "assets/scenario-5-xs-BiaIivxh.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5-xs.webp": {
+    "file": "assets/scenario-5-xs-CiGZKrVt.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5.jpg": {
+    "file": "assets/scenario-5-Ce7xtJEL.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario5/scenario-5.webp": {
+    "file": "assets/scenario-5-BmB1WsXg.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario5/scenario-5.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-lg.jpg": {
+    "file": "assets/scenario-6-lg-B-gSch8r.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-lg.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-lg.webp": {
+    "file": "assets/scenario-6-lg-CI9an6Hf.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-lg.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-md.jpg": {
+    "file": "assets/scenario-6-md-CInblE_L.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-md.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-md.webp": {
+    "file": "assets/scenario-6-md-CIF9smUq.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-md.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-sm.jpg": {
+    "file": "assets/scenario-6-sm-BGjZooiB.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-sm.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-sm.webp": {
+    "file": "assets/scenario-6-sm-DU0Nz8Wi.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-sm.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-xl.jpg": {
+    "file": "assets/scenario-6-xl-8bLUaqrC.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-xl.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-xl.webp": {
+    "file": "assets/scenario-6-xl-D3yLaRvP.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-xl.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-xs.jpg": {
+    "file": "assets/scenario-6-xs-OrB1yd1_.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-xs.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6-xs.webp": {
+    "file": "assets/scenario-6-xs-MBUJbM7N.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6-xs.webp"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6.jpg": {
+    "file": "assets/scenario-6-mIZNyw2V.jpg",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6.jpg"
+  },
+  "src/pages/visual_intelligence/images/Scenario6/scenario-6.webp": {
+    "file": "assets/scenario-6-B8GcqKNf.webp",
+    "src": "src/pages/visual_intelligence/images/Scenario6/scenario-6.webp"
+  },
+  "src/pages/visual_intelligence/images/driver-3.svg": {
+    "file": "assets/driver-3-D-NZZ1-l.svg",
+    "src": "src/pages/visual_intelligence/images/driver-3.svg"
+  },
+  "src/pages/visual_intelligence/images/driver-4.svg": {
+    "file": "assets/driver-4-e2O6Wja2.svg",
+    "src": "src/pages/visual_intelligence/images/driver-4.svg"
+  },
+  "src/routes/about.tsx?pick=default&pick=$css": {
+    "file": "assets/about-WGJu5PDV.js",
+    "name": "about",
+    "src": "src/routes/about.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_title-BCnMQUe6.js"
+    ],
+    "css": [
+      "assets/about-ByH3PnWS.css"
+    ]
+  },
+  "src/routes/azizi-life.tsx?pick=default&pick=$css": {
+    "file": "assets/azizi-life-Xsuq-2rr.js",
+    "name": "azizi-life",
+    "src": "src/routes/azizi-life.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_azizi_life-Bv3r9fW_.js",
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_external_link-B7gdbS7y.js",
+      "_cards-2sTdRlgu.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ]
+  },
+  "src/routes/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-BYCkceYw.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_scroll_observer-Be1yZ45W.js",
+      "_project.module-EaOodAWz.js",
+      "_components-B-_Vht4o.js",
+      "_azizi_life-Bv3r9fW_.js",
+      "_mobility_study-BR6eicNC.js",
+      "_synaesthesify-BjmP4kBu.js",
+      "_typing_practice--J82FoBw.js",
+      "_visual_intelligence-CrCnbtnk.js",
+      "_external_link-B7gdbS7y.js",
+      "_cards-2sTdRlgu.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js",
+      "_gallery-CcRWA5Tj.js"
+    ],
+    "css": [
+      "assets/index-BiCIUyjS.css"
+    ]
+  },
+  "src/routes/mobility-study.tsx?pick=default&pick=$css": {
+    "file": "assets/mobility-study-I9juQ1Gq.js",
+    "name": "mobility-study",
+    "src": "src/routes/mobility-study.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_mobility_study-BR6eicNC.js",
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_external_link-B7gdbS7y.js",
+      "_cards-2sTdRlgu.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ]
+  },
+  "src/routes/synaesthesify.tsx?pick=default&pick=$css": {
+    "file": "assets/synaesthesify-tKHkmyFb.js",
+    "name": "synaesthesify",
+    "src": "src/routes/synaesthesify.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_synaesthesify-BjmP4kBu.js",
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_external_link-B7gdbS7y.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ]
+  },
+  "src/routes/typing-practice.tsx?pick=default&pick=$css": {
+    "file": "assets/typing-practice-D6Vnnlx2.js",
+    "name": "typing-practice",
+    "src": "src/routes/typing-practice.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_typing_practice--J82FoBw.js",
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_external_link-B7gdbS7y.js",
+      "_cards-2sTdRlgu.js",
+      "_gallery-CcRWA5Tj.js",
+      "_title-BCnMQUe6.js",
+      "_useInitProject-2tb3lrR1.js"
+    ]
+  },
+  "src/routes/visual-intelligence.tsx?pick=default&pick=$css": {
+    "file": "assets/visual-intelligence-wgGM18hj.js",
+    "name": "visual-intelligence",
+    "src": "src/routes/visual-intelligence.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_visual_intelligence-CrCnbtnk.js",
+      "_index-DqQpK0WU.js",
+      "_project.module-EaOodAWz.js",
+      "_external_link-B7gdbS7y.js",
+      "_cards-2sTdRlgu.js",
+      "_gallery-CcRWA5Tj.js",
+      "_title-BCnMQUe6.js",
+      "_scroll_observer-Be1yZ45W.js"
+    ]
+  },
+  "virtual:#vinxi/handler/client": {
+    "file": "assets/client-BhI-70XR.js",
+    "name": "client",
+    "src": "virtual:#vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_index-DqQpK0WU.js",
+      "_scroll_observer-Be1yZ45W.js",
+      "_external_link-B7gdbS7y.js",
+      "_components-B-_Vht4o.js"
+    ],
+    "dynamicImports": [
+      "src/routes/about.tsx?pick=default&pick=$css",
+      "src/routes/azizi-life.tsx?pick=default&pick=$css",
+      "src/routes/index.tsx?pick=default&pick=$css",
+      "src/routes/mobility-study.tsx?pick=default&pick=$css",
+      "src/routes/synaesthesify.tsx?pick=default&pick=$css",
+      "src/routes/typing-practice.tsx?pick=default&pick=$css",
+      "src/routes/visual-intelligence.tsx?pick=default&pick=$css"
+    ],
+    "css": [
+      "assets/client-CjqBoRoE.css"
+    ]
+  }
+}
